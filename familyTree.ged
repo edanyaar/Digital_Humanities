@@ -1,0 +1,7375 @@
+
+0 HEAD
+1 GEDC
+2 VERS 5.5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 SOUR GS
+2 NAME Waldinger Family Tree
+2 VERS 5.5.5
+1 DATE 9 June 2020
+1 LANG English
+0 @I10@ INDI
+1 NAME David /Waldinger/
+2 SURN Waldinger
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE 1899
+1 FAMS @F10@
+0 @I102@ INDI
+1 NAME Moses /Waldinger/
+2 SURN Waldinger
+2 GIVN Moses
+1 SEX M
+1 BIRT
+2 DATE 1848
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE 1911
+1 FAMC @F10@
+1 FAMS @F102@
+0 @I10299999@ INDI
+1 NAME Sara Hannah /Reich/
+2 SURN Reich
+2 GIVN Sara Hannah
+1 SEX F
+1 BIRT
+2 DATE 1850
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE 1940
+1 FAMS @F102@
+0 @I114@ INDI
+1 NAME Herman /Waldinger/
+2 SURN Waldinger
+2 GIVN Herman
+1 SEX M
+1 BIRT
+2 DATE  03 Aug 1872
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE  14 Dec 1951
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F102@
+1 FAMS @F114@
+0 @I11499999@ INDI
+1 NAME Nettie /Loeb (Lob)/
+2 SURN Loeb (Lob)
+2 GIVN Nettie
+1 SEX F
+1 BIRT
+2 DATE  23 Mar 1878
+2 PLAC Cluj-Napoca
+3 MAP
+4 LATI 46.78
+4 LONG 23.55944444
+3 NOTE https://www.wikidata.org/wiki/Q100188
+1 DEAT
+2 DATE  22 Dec 1957
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMS @F114@
+0 @I122@ INDI
+1 NAME Albert /Waldinger/
+2 SURN Waldinger
+2 GIVN Albert
+1 SEX M
+1 BIRT
+2 DATE  03 Feb 1901
+2 PLAC Cluj-Napoca
+3 MAP
+4 LATI 46.78
+4 LONG 23.55944444
+3 NOTE https://www.wikidata.org/wiki/Q100188
+1 DEAT
+2 DATE  22 Jul 1984
+2 PLAC Murietta Farm  California
+3 MAP
+4 LATI 36.65166667
+4 LONG -120.4594444
+3 NOTE https://www.wikidata.org/wiki/Q14683450
+1 FAMC @F114@
+1 FAMS @F122@
+0 @I12299999@ INDI
+1 NAME Sadie /Fern/
+2 SURN Fern
+2 GIVN Sadie
+1 SEX F
+1 BIRT
+2 DATE  07 Jan 1901
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE  03 Jul 1991
+2 PLAC Murietta Farm  California
+3 MAP
+4 LATI 36.65166667
+4 LONG -120.4594444
+3 NOTE https://www.wikidata.org/wiki/Q14683450
+1 FAMS @F122@
+0 @I129@ INDI
+1 NAME Arthur /Waldinger/
+2 SURN Waldinger
+2 GIVN Arthur
+1 SEX M
+1 BIRT
+2 DATE  27 Jun 1928
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F122@
+1 FAMS @F129@
+0 @I12999999@ INDI
+1 NAME Gloria /Lieberman/
+2 SURN Lieberman
+2 GIVN Gloria
+1 SEX F
+1 BIRT
+2 DATE  08 Apr 1932
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F129@
+0 @I136@ INDI
+1 NAME Lori Ann /Waldinger/
+2 SURN Waldinger
+2 GIVN Lori Ann
+1 SEX F
+1 BIRT
+2 DATE  16 Dec 1955
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F129@
+1 FAMS @F136@
+0 @I13699999@ INDI
+1 NAME Bruce Louis /Saltzer/
+2 SURN Saltzer
+2 GIVN Bruce Louis
+1 SEX M
+1 BIRT
+2 DATE  15 Jun 1953
+2 PLAC Lynwood
+3 MAP
+4 LATI 33.92472222
+4 LONG -118.2019444
+3 NOTE https://www.wikidata.org/wiki/Q849619
+1 FAMS @F136@
+0 @I145@ INDI
+1 NAME Amy Michelle /Saltzer/
+2 SURN Saltzer
+2 GIVN Amy Michelle
+1 SEX F
+1 BIRT
+2 DATE  10 Nov 1986
+2 PLAC Tarzana
+3 MAP
+4 LATI 34.17333
+4 LONG -118.55306
+3 NOTE https://www.wikidata.org/wiki/Q2708222
+1 FAMC @F136@
+0 @I146@ INDI
+1 NAME Suzanne Leigh /Saltzer/
+2 SURN Saltzer
+2 GIVN Suzanne Leigh
+1 SEX F
+1 BIRT
+2 DATE  20 Jan 1992
+2 PLAC Tarzana
+3 MAP
+4 LATI 34.17333
+4 LONG -118.55306
+3 NOTE https://www.wikidata.org/wiki/Q2708222
+1 FAMC @F136@
+0 @I137@ INDI
+1 NAME Janna M /Waldinger/
+2 SURN Waldinger
+2 GIVN Janna M
+1 SEX F
+1 BIRT
+2 DATE  16 Mar 1958
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F129@
+1 FAMS @F137@
+0 @I13799999@ INDI
+1 NAME Lowell Kim /Downey/
+2 SURN Downey
+2 GIVN Lowell Kim
+1 SEX M
+1 BIRT
+2 DATE  08 Jul 1955
+2 PLAC Amarillo
+3 MAP
+4 LATI 35.19916667
+4 LONG -101.8452778
+3 NOTE https://www.wikidata.org/wiki/Q51691
+1 FAMS @F137@
+0 @I1143@ INDI
+1 NAME Forest Ross /Downey/
+2 SURN Downey
+2 GIVN Forest Ross
+1 SEX M
+1 BIRT
+2 DATE  17 Dec 1997
+2 PLAC Napa
+3 MAP
+4 LATI 38.3
+4 LONG -122.3
+3 NOTE https://www.wikidata.org/wiki/Q60537
+1 FAMC @F137@
+0 @I130@ INDI
+1 NAME Pearl Marion /Waldinger/
+2 SURN Waldinger
+2 GIVN Pearl Marion
+1 SEX F
+1 BIRT
+2 DATE  25 Mar 1932
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F122@
+1 FAMS @F130@
+0 @I13099999@ INDI
+1 NAME Merle Seymour /Glick/
+2 SURN Glick
+2 GIVN Merle Seymour
+1 SEX F
+1 BIRT
+2 DATE  25 Aug 1926
+2 PLAC Youngstown
+3 MAP
+4 LATI 41.09638889
+4 LONG -80.64916667
+3 NOTE https://www.wikidata.org/wiki/Q216820
+1 FAMS @F130@
+0 @I142@ INDI
+1 NAME Leslie Ann /Glick/
+2 SURN Glick
+2 GIVN Leslie Ann
+1 SEX F
+1 BIRT
+2 DATE  20 Nov 1956
+1 FAMC @F130@
+0 @I141@ INDI
+1 NAME Nancy Lee /Glick/
+2 SURN Glick
+2 GIVN Nancy Lee
+1 SEX F
+1 BIRT
+2 DATE  27 Dec 1957
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F130@
+1 FAMS @F141@
+0 @I14199999@ INDI
+1 NAME Peter Llyod /Sheerin/
+2 SURN Sheerin
+2 GIVN Peter Llyod
+1 SEX M
+1 BIRT
+2 DATE  26 Nov 1955
+2 PLAC Augusta
+3 MAP
+4 LATI 44.31055556
+4 LONG -69.78
+3 NOTE https://www.wikidata.org/wiki/Q28206
+1 FAMS @F141@
+0 @I144@ INDI
+1 NAME Erica Amanda /Sheerin/
+2 SURN Sheerin
+2 GIVN Erica Amanda
+1 SEX F
+1 BIRT
+2 DATE  03 May 1987
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F141@
+0 @I143@ INDI
+1 NAME Todd Fillmore /Sheerin/
+2 SURN Sheerin
+2 GIVN Todd Fillmore
+1 SEX M
+1 BIRT
+2 DATE  14 Nov 1989
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F141@
+0 @I121@ INDI
+1 NAME Laura /Waldinger/
+2 SURN Waldinger
+2 GIVN Laura
+1 SEX F
+1 BIRT
+2 DATE  07 Oct 1903
+2 PLAC Cluj-Napoca
+3 MAP
+4 LATI 46.78
+4 LONG 23.55944444
+3 NOTE https://www.wikidata.org/wiki/Q100188
+1 DEAT
+2 DATE  09 Apr 1982
+1 BURI
+2 PLAC Eden Memorial Park Cemetery
+3 MAP
+4 LATI 34.280444
+4 LONG -118.468474
+3 NOTE https://www.wikidata.org/wiki/Q5336889
+1 FAMC @F114@
+1 FAMS @F121@
+0 @I12199999@ INDI
+1 NAME Ludwick /Fischer/
+2 SURN Fischer
+2 GIVN Ludwick
+1 SEX M
+1 BIRT
+2 DATE  02 Feb 1899
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE  06 Apr 1975
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMS @F121@
+0 @I150@ INDI
+1 NAME Leah Joan /Fischer/
+2 SURN Fischer
+2 GIVN Leah Joan
+1 SEX F
+1 BIRT
+2 DATE  20 Aug 1927
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE  Nov 2005
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F121@
+1 FAMS @F150@
+0 @I15099999@ INDI
+1 NAME William W /Rayfield/
+2 SURN Rayfield
+2 GIVN William W
+1 SEX M
+1 BIRT
+2 DATE  23 Feb 1927
+2 PLAC St. Louis
+3 MAP
+4 LATI 38.61666667
+4 LONG -90.2
+3 NOTE https://www.wikidata.org/wiki/Q38022
+1 DEAT
+2 DATE  15 Oct 1979
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMS @F150@
+0 @I154@ INDI
+1 NAME Michael Eli /Rayfield/
+2 SURN Rayfield
+2 GIVN Michael Eli
+1 SEX M
+1 BIRT
+2 DATE  25 Oct 1948
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F150@
+1 FAMS @F154@
+0 @I15499999@ INDI
+1 NAME Susan /Levitt/
+2 SURN Levitt
+2 GIVN Susan
+1 SEX F
+1 BIRT
+2 DATE  14 Apr 1950
+1 FAMS @F154@
+0 @I155@ INDI
+1 NAME Mark David /Rayfield/
+2 SURN Rayfield
+2 GIVN Mark David
+1 SEX M
+1 BIRT
+2 DATE  23 Oct 1971
+2 PLAC Corvallis
+3 MAP
+4 LATI 44.57078056
+4 LONG -123.2759972
+3 NOTE https://www.wikidata.org/wiki/Q748474
+1 FAMC @F154@
+0 @I156@ INDI
+1 NAME Jeniffer Nicole /Rayfield/
+2 SURN Rayfield
+2 GIVN Jeniffer Nicole
+1 SEX F
+1 BIRT
+2 DATE  12 Aug 1974
+1 FAMC @F154@
+1 FAMS @F156@
+0 @I15699999@ INDI
+1 NAME Michel /Uebe/
+2 SURN Uebe
+2 GIVN Michel
+1 SEX M
+1 FAMS @F156@
+0 @I152@ INDI
+1 NAME Sharon Gertrude /Rayfield/
+2 SURN Rayfield
+2 GIVN Sharon Gertrude
+1 SEX F
+1 BIRT
+2 DATE  06 Mar 1951
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F150@
+1 FAMS @F152@
+0 @I15299999@ INDI
+1 NAME Raymond /Roberts/
+2 SURN Roberts
+2 GIVN Raymond
+1 SEX M
+1 BIRT
+2 DATE  06 Mar 1951
+1 FAMS @F152@
+0 @I153@ INDI
+1 NAME Kristy Ann /Roberts/
+2 SURN Roberts
+2 GIVN Kristy Ann
+1 SEX F
+1 BIRT
+2 DATE  18 Sep 1977
+2 PLAC Visalia
+3 MAP
+4 LATI 36.31722222
+4 LONG -119.3319444
+3 NOTE https://www.wikidata.org/wiki/Q495373
+1 FAMC @F152@
+0 @I151@ INDI
+1 NAME Judith Hanna /Fischer/
+2 SURN Fischer
+2 GIVN Judith Hanna
+1 SEX F
+1 BIRT
+2 DATE  29 Dec 1934
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F121@
+1 FAMS @F151@
+0 @I15199999@ INDI
+1 NAME Barry /Breskin/
+2 SURN Breskin
+2 GIVN Barry
+1 SEX M
+1 BIRT
+2 DATE  11 Oct 1935
+2 PLAC East Chicago
+3 MAP
+4 LATI 41.6389
+4 LONG -87.4622
+3 NOTE https://www.wikidata.org/wiki/Q599694
+1 DEAT
+2 DATE  04 May 1991
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMS @F151@
+0 @I157@ INDI
+1 NAME Tracy Lynn /Breskin/
+2 SURN Breskin
+2 GIVN Tracy Lynn
+1 SEX F
+1 BIRT
+2 DATE  10 Sep 1963
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F151@
+1 FAMS @F157@
+0 @I15799999@ INDI
+1 NAME Todd /Guillette/
+2 SURN Guillette
+2 GIVN Todd
+1 SEX M
+1 BIRT
+2 DATE  02 Apr 1963
+1 FAMS @F157@
+0 @I176@ INDI
+1 NAME Kyle Christopher /Guillette/
+2 SURN Guillette
+2 GIVN Kyle Christopher
+1 SEX M
+1 BIRT
+2 DATE  26 Feb 1992
+2 PLAC San Diego
+3 MAP
+4 LATI 32.715
+4 LONG -117.1625
+3 NOTE https://www.wikidata.org/wiki/Q16552
+1 FAMC @F157@
+0 @I177@ INDI
+1 NAME Cory Mathew /Guillette/
+2 SURN Guillette
+2 GIVN Cory Mathew
+1 SEX M
+1 BIRT
+2 DATE  15 Aug 1995
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F157@
+0 @I158@ INDI
+1 NAME Debra Anne /Breskin/
+2 SURN Breskin
+2 GIVN Debra Anne
+1 SEX F
+1 BIRT
+2 DATE  19 Dec 1965
+2 PLAC Panorama City
+3 MAP
+4 LATI 34.22472
+4 LONG -118.44889
+3 NOTE https://www.wikidata.org/wiki/Q7131498
+1 FAMC @F151@
+1 FAMS @F158@
+0 @I15899999@ INDI
+1 NAME Jemey /Clark/
+2 SURN Clark
+2 GIVN Jemey
+1 SEX M
+1 BIRT
+2 DATE  11 May 1967
+2 PLAC Michigan
+3 MAP
+4 LATI 44.34
+4 LONG -85.58
+3 NOTE https://www.wikidata.org/wiki/Q1166
+1 FAMS @F158@
+0 @I1145@ INDI
+1 NAME Brittany /Clark/
+2 SURN Clark
+2 GIVN Brittany
+1 SEX F
+1 BIRT
+2 DATE  23 Dec 1988
+2 PLAC Fort Ord Village
+3 MAP
+4 LATI 36.62361111
+4 LONG -121.8347222
+3 NOTE https://www.wikidata.org/wiki/Q5471781
+1 FAMC @F158@
+0 @I1146@ INDI
+1 NAME Garret /Clark/
+2 SURN Clark
+2 GIVN Garret
+1 SEX M
+1 BIRT
+2 DATE  04 Jun 1997
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F158@
+0 @I1147@ INDI
+1 NAME Conner /Clark/
+2 SURN Clark
+2 GIVN Conner
+1 SEX M
+1 BIRT
+2 DATE  26 Nov 1998
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F158@
+0 @I1148@ INDI
+1 NAME Trevor /Clark/
+2 SURN Clark
+2 GIVN Trevor
+1 SEX M
+1 BIRT
+2 DATE  03 Oct 2000
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F158@
+0 @I159@ INDI
+1 NAME Kenneth Alan /Breskin/
+2 SURN Breskin
+2 GIVN Kenneth Alan
+1 SEX M
+1 BIRT
+2 DATE  24 Nov 1967
+2 PLAC Panorama City
+3 MAP
+4 LATI 34.22472
+4 LONG -118.44889
+3 NOTE https://www.wikidata.org/wiki/Q7131498
+1 FAMC @F151@
+1 FAMS @F159@
+0 @I15999999@ INDI
+1 NAME Monique /Munoz/
+2 SURN Munoz
+2 GIVN Monique
+1 SEX F
+1 BIRT
+2 DATE  23 Sep 1972
+1 FAMS @F159@
+0 @I1149@ INDI
+1 NAME Chirstian /Munoz/
+2 SURN Munoz
+2 GIVN Chirstian
+1 SEX M
+1 BIRT
+2 DATE  08 Mar 1994
+2 PLAC Simi Valley
+3 MAP
+4 LATI 34.270833
+4 LONG -118.739167
+3 NOTE https://www.wikidata.org/wiki/Q323414
+1 FAMC @F159@
+0 @I1150@ INDI
+1 NAME Logan /Breskin/
+2 SURN Breskin
+2 GIVN Logan
+1 SEX M
+1 BIRT
+2 DATE  28 Jun 1997
+2 PLAC Simi Valley
+3 MAP
+4 LATI 34.270833
+4 LONG -118.739167
+3 NOTE https://www.wikidata.org/wiki/Q323414
+1 FAMC @F159@
+0 @I1151@ INDI
+1 NAME Cody Alan /Breskin/
+2 SURN Breskin
+2 GIVN Cody Alan
+1 SEX M
+1 BIRT
+2 DATE  16 Apr 2001
+2 PLAC Simi Valley
+3 MAP
+4 LATI 34.270833
+4 LONG -118.739167
+3 NOTE https://www.wikidata.org/wiki/Q323414
+1 FAMC @F159@
+0 @I123@ INDI
+1 NAME Siegfried /Waldinger/
+2 SURN Waldinger
+2 GIVN Siegfried
+1 SEX M
+1 BIRT
+2 DATE  16 Jun 1902
+2 PLAC Cluj-Napoca
+3 MAP
+4 LATI 46.78
+4 LONG 23.55944444
+3 NOTE https://www.wikidata.org/wiki/Q100188
+1 DEAT
+2 DATE  01 Jun 1989
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F114@
+1 FAMS @F123@
+0 @I12399999@ INDI
+1 NAME Elaine (Ilush) /Schwed/
+2 SURN Schwed
+2 GIVN Elaine (Ilush)
+1 SEX F
+1 BIRT
+2 DATE  23 Feb 1907
+2 PLAC Kissrath  Ungmeger  Hungary
+1 DEAT
+2 DATE  06 Sep 2001
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F123@
+0 @I131@ INDI
+1 NAME Conrad R /Waldinger/
+2 SURN Waldinger
+2 GIVN Conrad R
+1 SEX M
+1 BIRT
+2 DATE  22 Jan 1933
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F123@
+1 FAMS @F131@
+0 @I13199999@ INDI
+1 NAME Lillian /Platt/
+2 SURN Platt
+2 GIVN Lillian
+1 SEX F
+1 BIRT
+2 DATE  16 Sep 1935
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE  27 Dec 1972
+2 PLAC The Bronx
+3 MAP
+4 LATI 40.84676
+4 LONG -73.873207
+3 NOTE https://www.wikidata.org/wiki/Q18426
+1 FAMS @F131@
+0 @I138@ INDI
+1 NAME David Michael /Waldinger/
+2 SURN Waldinger
+2 GIVN David Michael
+1 SEX M
+1 BIRT
+2 DATE  19 Dec 1957
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F131@
+1 FAMS @F138@
+0 @I13899999@ INDI
+1 NAME Terry /Bass/
+2 SURN Bass
+2 GIVN Terry
+1 SEX F
+1 BIRT
+2 DATE  17 Aug 1957
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F138@
+0 @I175@ INDI
+1 NAME Leslie Ann /Waldinger/
+2 SURN Waldinger
+2 GIVN Leslie Ann
+1 SEX F
+1 BIRT
+2 DATE  12 Dec 1985
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F138@
+0 @I1136@ INDI
+1 NAME Rebecca Lynn /Waldinger/
+2 SURN Waldinger
+2 GIVN Rebecca Lynn
+1 SEX F
+1 BIRT
+2 DATE  04 Mar 1989
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F138@
+0 @I139@ INDI
+1 NAME Elyse Nancy /Waldinger/
+2 SURN Waldinger
+2 GIVN Elyse Nancy
+1 SEX F
+1 BIRT
+2 DATE  05 Nov 1960
+2 PLAC The Bronx
+3 MAP
+4 LATI 40.84676
+4 LONG -73.873207
+3 NOTE https://www.wikidata.org/wiki/Q18426
+1 FAMC @F131@
+0 @I132@ INDI
+1 NAME Leomi /Waldinger/
+2 SURN Waldinger
+2 GIVN Leomi
+1 SEX F
+1 BIRT
+2 DATE  14 Sep 1938
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F123@
+1 FAMS @F132@
+0 @I13299999@ INDI
+1 NAME Irwin /Simkin/
+2 SURN Simkin
+2 GIVN Irwin
+1 SEX M
+1 BIRT
+2 DATE  02 May 1937
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F132@
+0 @I160@ INDI
+1 NAME Marc Howard /Simkin/
+2 SURN Simkin
+2 GIVN Marc Howard
+1 SEX M
+1 BIRT
+2 DATE  17 Apr 1964
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F132@
+0 @I162@ INDI
+1 NAME Scott Daniel /Simkin/
+2 SURN Simkin
+2 GIVN Scott Daniel
+1 SEX M
+1 BIRT
+2 DATE  13 Apr 1966
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F132@
+1 FAMS @F162@
+0 @I16299999@ INDI
+1 NAME Fanny /Guzman/
+2 SURN Guzman
+2 GIVN Fanny
+1 SEX F
+1 BIRT
+2 DATE  16 Nov 1967
+2 PLAC Moca
+3 MAP
+4 LATI 19.38333333
+4 LONG -70.51666667
+3 NOTE https://www.wikidata.org/wiki/Q1241374
+1 FAMS @F162@
+0 @I178@ INDI
+1 NAME Steven Michael /Simkin/
+2 SURN Simkin
+2 GIVN Steven Michael
+1 SEX M
+1 BIRT
+2 DATE  16 May 1996
+1 FAMC @F162@
+0 @I1152@ INDI
+1 NAME Anthony /Simkin/
+2 SURN Simkin
+2 GIVN Anthony
+1 SEX M
+1 BIRT
+2 DATE  28 Jul 1992
+1 FAMC @F162@
+0 @I1153@ INDI
+1 NAME Samantha /Simkin/
+2 SURN Simkin
+2 GIVN Samantha
+1 SEX F
+1 BIRT
+2 DATE  12 Apr 2000
+1 FAMC @F162@
+0 @I161@ INDI
+1 NAME Eric Steven /Simkin/
+2 SURN Simkin
+2 GIVN Eric Steven
+1 SEX M
+1 BIRT
+2 DATE  05 Mar 1968
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F132@
+1 FAMS @F161@
+0 @I16199999@ INDI
+1 NAME Lauren Dana /Wacht/
+2 SURN Wacht
+2 GIVN Lauren Dana
+1 SEX F
+1 BIRT
+2 DATE  24 Feb 1977
+1 FAMS @F161@
+0 @I1154@ INDI
+1 NAME Michelle Elaine /Simkin/
+2 SURN Simkin
+2 GIVN Michelle Elaine
+1 SEX F
+1 BIRT
+2 DATE  13 Oct 2004
+1 FAMC @F161@
+0 @I109@ INDI
+1 NAME Solomon /Waldinger/
+2 SURN Waldinger
+2 GIVN Solomon
+1 SEX M
+1 BIRT
+2 DATE  18 Jan 1884
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE 1950
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMC @F102@
+1 FAMS @F109@
+0 @I10999999@ INDI
+1 NAME Eva /Mendelson/
+2 SURN Mendelson
+2 GIVN Eva
+1 SEX F
+1 BIRT
+2 DATE  25 Dec 1889
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE  Jan 1983
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMS @F109@
+0 @I115@ INDI
+1 NAME Ida /Waldinger/
+2 SURN Waldinger
+2 GIVN Ida
+1 SEX F
+1 BIRT
+2 DATE  27 Jul 1910
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 1985
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMC @F109@
+1 FAMS @F115@
+0 @I11599999@ INDI
+1 NAME Saul /Gardner/
+2 SURN Gardner
+2 GIVN Saul
+1 SEX M
+1 FAMS @F115@
+0 @I179@ INDI
+1 NAME Alan /Gardner/
+2 SURN Gardner
+2 GIVN Alan
+1 SEX M
+1 BIRT
+2 DATE  26 Aug 1942
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F115@
+1 FAMS @F179@
+0 @I17999999@ INDI
+1 NAME Sylvia /Wittgenstein/
+2 SURN Wittgenstein
+2 GIVN Sylvia
+1 SEX F
+1 FAMS @F179@
+0 @I180@ INDI
+1 NAME Toby /Gardner/
+2 SURN Gardner
+2 GIVN Toby
+1 SEX M
+1 BIRT
+2 DATE 1976
+1 FAMC @F179@
+0 @I1131@ INDI
+1 NAME Judy /Gardner/
+2 SURN Gardner
+2 GIVN Judy
+1 SEX F
+1 BIRT
+2 DATE 1946
+2 PLAC Queens
+3 MAP
+4 LATI 40.70416667
+4 LONG -73.91777778
+3 NOTE https://www.wikidata.org/wiki/Q18424
+1 FAMC @F115@
+0 @I116@ INDI
+1 NAME Teresa (Tessie) /Waldinger/
+2 SURN Waldinger
+2 GIVN Teresa (Tessie)
+1 SEX F
+1 BIRT
+2 DATE  26 Feb 1912
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 DEAT
+2 DATE  02 Jul 1998
+1 BURI
+2 PLAC Long Island
+3 MAP
+4 LATI 40.805805
+4 LONG -73.253616
+3 NOTE https://www.wikidata.org/wiki/Q18438
+1 FAMC @F109@
+1 FAMS @F116@
+0 @I11699999@ INDI
+1 NAME Harry /Nachman/
+2 SURN Nachman
+2 GIVN Harry
+1 SEX M
+1 DEAT
+2 DATE  12 Jul 1998
+1 FAMS @F116@
+0 @I181@ INDI
+1 NAME Martin /Nachman/
+2 SURN Nachman
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 1933
+2 PLAC Kerhonkson
+3 MAP
+4 LATI 41.7744
+4 LONG -74.2975
+3 NOTE https://www.wikidata.org/wiki/Q1193726
+1 FAMC @F116@
+1 FAMS @F181@
+0 @I18199999@ INDI
+1 NAME  /Mary/
+2 SURN Mary
+2 GIVN 
+1 SEX F
+1 FAMS @F181@
+0 @I1135@ INDI
+1 NAME Susan /Nachman/
+2 SURN Nachman
+2 GIVN Susan
+1 SEX F
+1 FAMC @F181@
+1 FAMS @F1135@
+0 @I113599999@ INDI
+1 NAME  /Jankowski/
+2 SURN Jankowski
+2 GIVN 
+1 SEX M
+1 FAMS @F1135@
+0 @I1137@ INDI
+1 NAME Carolyn /Nachman/
+2 SURN Nachman
+2 GIVN Carolyn
+1 SEX F
+1 FAMC @F181@
+1 FAMS @F1137@
+0 @I113799999@ INDI
+1 NAME  /Jacobsen/
+2 SURN Jacobsen
+2 GIVN 
+1 SEX M
+1 FAMS @F1137@
+0 @I1139@ INDI
+1 NAME Robert /Nachman/
+2 SURN Nachman
+2 GIVN Robert
+1 SEX M
+1 DEAT
+2 DATE 1995
+1 FAMC @F181@
+0 @I1144@ INDI
+1 NAME Lisa /Nachman/
+2 SURN Nachman
+2 GIVN Lisa
+1 SEX F
+1 FAMC @F181@
+0 @I1132@ INDI
+1 NAME Ruth /Nachman/
+2 SURN Nachman
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 1937
+2 PLAC Kerhonkson
+3 MAP
+4 LATI 41.7744
+4 LONG -74.2975
+3 NOTE https://www.wikidata.org/wiki/Q1193726
+1 FAMC @F116@
+1 FAMS @F1132@
+0 @I113299999@ INDI
+1 NAME William /Jose/
+2 SURN Jose
+2 GIVN William
+1 SEX M
+1 FAMS @F1132@
+0 @I1133@ INDI
+1 NAME Michele Nachman /Jose/
+2 SURN Jose
+2 GIVN Michele Nachman
+1 SEX M
+1 BIRT
+2 DATE  07 Oct 1969
+2 PLAC Montvale
+3 MAP
+4 LATI 41.04888889
+4 LONG -74.04055556
+3 NOTE https://www.wikidata.org/wiki/Q178277
+1 FAMC @F1132@
+0 @I1134@ INDI
+1 NAME Kimberly Nachman /Jose/
+2 SURN Jose
+2 GIVN Kimberly Nachman
+1 SEX F
+1 BIRT
+2 DATE  28 May 1975
+2 PLAC Montvale
+3 MAP
+4 LATI 41.04888889
+4 LONG -74.04055556
+3 NOTE https://www.wikidata.org/wiki/Q178277
+1 FAMC @F1132@
+0 @I117@ INDI
+1 NAME Carl /Waldinger/
+2 SURN Waldinger
+2 GIVN Carl
+1 SEX M
+1 BIRT
+2 DATE  15 Jun 1913
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 DEAT
+2 DATE  15 Mar 1970
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMC @F109@
+1 FAMS @F117@
+0 @I11799999@ INDI
+1 NAME Stella /Cohen/
+2 SURN Cohen
+2 GIVN Stella
+1 SEX F
+1 BIRT
+2 DATE  24 Jun 1912
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 DEAT
+2 DATE  18 Jun 1997
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMS @F117@
+0 @I124@ INDI
+1 NAME Ann /Waldinger/
+2 SURN Waldinger
+2 GIVN Ann
+1 SEX F
+1 BIRT
+2 DATE  02 Dec 1946
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F117@
+1 FAMS @F124@
+0 @I12499999@ INDI
+1 NAME ken /Lewis/
+2 SURN Lewis
+2 GIVN ken
+1 SEX M
+1 FAMS @F124@
+0 @I163@ INDI
+1 NAME Carla /Lewis/
+2 SURN Lewis
+2 GIVN Carla
+1 SEX F
+1 BIRT
+2 DATE 1973
+2 PLAC Queens
+3 MAP
+4 LATI 40.70416667
+4 LONG -73.91777778
+3 NOTE https://www.wikidata.org/wiki/Q18424
+1 FAMC @F124@
+1 FAMS @F163@
+0 @I16399999@ INDI
+1 NAME Ken De /Witt/
+2 SURN Witt
+2 GIVN Ken De
+1 SEX M
+1 BIRT
+2 DATE 1972
+2 PLAC Hempstead
+3 MAP
+4 LATI 40.70472222
+4 LONG -73.61722222
+3 NOTE https://www.wikidata.org/wiki/Q1583289
+1 FAMS @F163@
+0 @I118@ INDI
+1 NAME Irving William /Waldinger/
+2 SURN Waldinger
+2 GIVN Irving William
+1 SEX M
+1 BIRT
+2 DATE  26 Nov 1915
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 2006
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F109@
+1 FAMS @F118@
+0 @I11899999@ INDI
+1 NAME Myra /Sprung/
+2 SURN Sprung
+2 GIVN Myra
+1 SEX F
+1 BIRT
+2 DATE  09 Sep 1917
+2 PLAC Waterbury
+3 MAP
+4 LATI 41.55833333
+4 LONG -73.03694444
+3 NOTE https://www.wikidata.org/wiki/Q49178
+1 FAMS @F118@
+0 @I125@ INDI
+1 NAME Richard Jay /Waldinger/
+2 SURN Waldinger
+2 GIVN Richard Jay
+1 SEX M
+1 BIRT
+2 DATE  01 Mar 1944
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F118@
+1 FAMS @F125@
+0 @I12599999@ INDI
+1 NAME Frances (fran) /Belle/
+2 SURN Belle
+2 GIVN Frances (fran)
+1 SEX F
+1 BIRT
+2 DATE 1941
+2 PLAC Tacoma
+3 MAP
+4 LATI 47.24138889
+4 LONG -122.4594444
+3 NOTE https://www.wikidata.org/wiki/Q199797
+1 FAMS @F125@
+0 @I133@ INDI
+1 NAME Rachel /Waldinger/
+2 SURN Waldinger
+2 GIVN Rachel
+1 SEX F
+1 BIRT
+2 DATE 1975
+2 PLAC California
+3 MAP
+4 LATI 37
+4 LONG -120
+3 NOTE https://www.wikidata.org/wiki/Q99
+1 FAMC @F125@
+0 @I164@ INDI
+1 NAME Evan /Waldinger/
+2 SURN Waldinger
+2 GIVN Evan
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMC @F125@
+0 @I126@ INDI
+1 NAME Jesseseth /Waldinger/
+2 SURN Waldinger
+2 GIVN Jesseseth
+1 SEX M
+1 BIRT
+2 DATE  02 Mar 1947
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F118@
+1 FAMS @F126@
+0 @I12699999@ INDI
+1 NAME Barbara Meredith /Weidman/
+2 SURN Weidman
+2 GIVN Barbara Meredith
+1 SEX F
+1 BIRT
+2 DATE  Jun 1947
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F126@
+0 @I134@ INDI
+1 NAME Deborah /Waldinger/
+2 SURN Waldinger
+2 GIVN Deborah
+1 SEX F
+1 BIRT
+2 DATE  18 Apr 1974
+1 FAMC @F126@
+0 @I135@ INDI
+1 NAME James /Waldinger/
+2 SURN Waldinger
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE  01 Jul 1979
+2 PLAC Queens
+3 MAP
+4 LATI 40.70416667
+4 LONG -73.91777778
+3 NOTE https://www.wikidata.org/wiki/Q18424
+1 FAMC @F126@
+0 @I183@ INDI
+1 NAME Pepe /Waldinger/
+2 SURN Waldinger
+2 GIVN Pepe
+1 SEX M
+1 FAMC @F102@
+1 FAMS @F183@
+0 @I18399999@ INDI
+1 NAME ltzaac /Birenbaum/
+2 SURN Birenbaum
+2 GIVN ltzaac
+1 SEX M
+1 FAMS @F183@
+0 @I184@ INDI
+1 NAME Harry /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Harry
+1 SEX M
+1 FAMC @F183@
+1 FAMS @F184@
+0 @I18499999@ INDI
+1 NAME  /Sis/
+2 SURN Sis
+2 GIVN 
+1 SEX F
+1 FAMS @F184@
+0 @I185@ INDI
+1 NAME Lenny /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Lenny
+1 SEX M
+1 FAMC @F184@
+1 FAMS @F185@
+0 @I18599999@ INDI
+1 NAME  /Harriet/
+2 SURN Harriet
+2 GIVN 
+1 SEX F
+1 FAMS @F185@
+0 @I1118@ INDI
+1 NAME Isine /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Isine
+1 SEX F
+1 FAMC @F185@
+0 @I1119@ INDI
+1 NAME Jan /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Jan
+1 SEX M
+1 FAMC @F185@
+0 @I1120@ INDI
+1 NAME Tracey /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Tracey
+1 SEX F
+1 FAMC @F185@
+0 @I186@ INDI
+1 NAME Sandy /Birenbaum/
+2 SURN Birenbaum
+2 GIVN Sandy
+1 SEX F
+1 FAMC @F184@
+0 @I110@ INDI
+1 NAME Biene /Waldinger/
+2 SURN Waldinger
+2 GIVN Biene
+1 SEX F
+1 BIRT
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 FAMC @F102@
+1 FAMS @F110@
+0 @I11099999@ INDI
+1 NAME Abraham /Gitter/
+2 SURN Gitter
+2 GIVN Abraham
+1 SEX M
+1 FAMS @F110@
+0 @I187@ INDI
+1 NAME Ida /Gitter/
+2 SURN Gitter
+2 GIVN Ida
+1 SEX F
+1 FAMC @F110@
+1 FAMS @F187@
+0 @I18799999@ INDI
+1 NAME Joe /Siegel/
+2 SURN Siegel
+2 GIVN Joe
+1 SEX M
+1 FAMS @F187@
+0 @I1121@ INDI
+1 NAME Esther /Siegel/
+2 SURN Siegel
+2 GIVN Esther
+1 SEX F
+1 FAMC @F187@
+0 @I1122@ INDI
+1 NAME Martin /Siegel/
+2 SURN Siegel
+2 GIVN Martin
+1 SEX M
+1 FAMC @F187@
+0 @I1123@ INDI
+1 NAME Harriet /Siegel/
+2 SURN Siegel
+2 GIVN Harriet
+1 SEX F
+1 FAMC @F187@
+0 @I188@ INDI
+1 NAME Molly /Gitter/
+2 SURN Gitter
+2 GIVN Molly
+1 SEX F
+1 FAMC @F110@
+1 FAMS @F188@
+0 @I18899999@ INDI
+1 NAME Jack /Bossom/
+2 SURN Bossom
+2 GIVN Jack
+1 SEX M
+1 FAMS @F188@
+0 @I1124@ INDI
+1 NAME Bernie /Bossom/
+2 SURN Bossom
+2 GIVN Bernie
+1 SEX M
+1 FAMC @F188@
+1 FAMS @F1124@
+0 @I1125@ INDI
+1 NAME Christapher /Bossom/
+2 SURN Bossom
+2 GIVN Christapher
+1 SEX M
+1 FAMC @F1124@
+0 @I1126@ INDI
+1 NAME Eden /Bossom/
+2 SURN Bossom
+2 GIVN Eden
+1 FAMC @F1124@
+0 @I1127@ INDI
+1 NAME Joseph /Bossom/
+2 SURN Bossom
+2 GIVN Joseph
+1 SEX M
+1 FAMC @F188@
+1 FAMS @F1127@
+0 @I1128@ INDI
+1 NAME Jack /Bossom/
+2 SURN Bossom
+2 GIVN Jack
+1 SEX M
+1 FAMC @F1127@
+0 @I1129@ INDI
+1 NAME Lucy /Bossom/
+2 SURN Bossom
+2 GIVN Lucy
+1 SEX F
+1 FAMC @F1127@
+0 @I1130@ INDI
+1 NAME Ciaran /Bossom/
+2 SURN Bossom
+2 GIVN Ciaran
+1 SEX M
+1 FAMC @F1127@
+0 @I189@ INDI
+1 NAME Tessie /Gitter/
+2 SURN Gitter
+2 GIVN Tessie
+1 SEX F
+1 FAMC @F110@
+1 FAMS @F189@
+0 @I18999999@ INDI
+1 NAME  /Sieg/
+2 SURN Sieg
+2 GIVN 
+1 SEX M
+1 FAMS @F189@
+0 @I190@ INDI
+1 NAME Joe /Gitter/
+2 SURN Gitter
+2 GIVN Joe
+1 SEX M
+1 FAMC @F110@
+1 FAMS @F190@
+0 @I19099999@ INDI
+1 NAME  /Ann/
+2 SURN Ann
+2 GIVN 
+1 SEX F
+1 FAMS @F190@
+0 @I1106@ INDI
+1 NAME Robert /Gitter/
+2 SURN Gitter
+2 GIVN Robert
+1 SEX M
+1 FAMC @F190@
+0 @I1114@ INDI
+1 NAME Michael /Gitter/
+2 SURN Gitter
+2 GIVN Michael
+1 SEX M
+1 DEAT
+2 DATE 1996
+1 FAMC @F190@
+0 @I111@ INDI
+1 NAME Freda /Waldinger/
+2 SURN Waldinger
+2 GIVN Freda
+1 SEX F
+1 BIRT
+2 DATE 1880
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 FAMC @F102@
+1 FAMS @F111@
+0 @I11199999@ INDI
+1 NAME Jacob /Frey/
+2 SURN Frey
+2 GIVN Jacob
+1 SEX M
+1 FAMS @F111@
+0 @I193@ INDI
+1 NAME Moe Maurice /Frey/
+2 SURN Frey
+2 GIVN Moe Maurice
+1 SEX F
+1 BIRT
+2 DATE  16 Nov 1904
+1 FAMC @F111@
+1 FAMS @F193@
+0 @I19399999@ INDI
+1 NAME Louise /Gilden/
+2 SURN Gilden
+2 GIVN Louise
+1 SEX F
+1 BIRT
+2 DATE  14 Jan 1903
+1 FAMS @F193@
+0 @I1108@ INDI
+1 NAME David /Frey/
+2 SURN Frey
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1941
+1 FAMC @F193@
+1 FAMS @F1108@
+0 @I110899999@ INDI
+1 NAME  /Loeb/
+2 SURN Loeb
+2 GIVN 
+1 SEX F
+1 FAMS @F1108@
+0 @I1109@ INDI
+1 NAME Adam /Frey/
+2 SURN Frey
+2 GIVN Adam
+1 SEX M
+1 BIRT
+2 DATE  14 Sep 1973
+1 FAMC @F1108@
+0 @I1110@ INDI
+1 NAME Samuel /Frey/
+2 SURN Frey
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE  21 Oct 1972
+1 FAMC @F1108@
+0 @I198@ INDI
+1 NAME Manny /Frey/
+2 SURN Frey
+2 GIVN Manny
+1 SEX M
+1 FAMC @F111@
+1 FAMS @F198@
+0 @I19899999@ INDI
+1 NAME  /Jean/
+2 SURN Jean
+2 GIVN 
+1 SEX M
+1 FAMS @F198@
+0 @I1104@ INDI
+1 NAME Jay /Frey/
+2 SURN Frey
+2 GIVN Jay
+1 SEX M
+1 FAMC @F198@
+0 @I1111@ INDI
+1 NAME Carl /Frey/
+2 SURN Frey
+2 GIVN Carl
+1 SEX M
+1 BIRT
+2 DATE 1913
+1 FAMC @F111@
+1 FAMS @F1111@
+0 @I111199999@ INDI
+1 NAME  /Molly/
+2 SURN Molly
+2 GIVN 
+1 SEX F
+1 FAMS @F1111@
+0 @I1105@ INDI
+1 NAME Denise /Frey/
+2 SURN Frey
+2 GIVN Denise
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 FAMC @F1111@
+0 @I1107@ INDI
+1 NAME Linda /Frey/
+2 SURN Frey
+2 GIVN Linda
+1 SEX F
+1 FAMC @F1111@
+0 @I1100@ INDI
+1 NAME Ida /Frey/
+2 SURN Frey
+2 GIVN Ida
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 FAMC @F111@
+1 FAMS @F1100@
+0 @I110099999@ INDI
+1 NAME Mitchel /Benson/
+2 SURN Benson
+2 GIVN Mitchel
+1 SEX M
+1 FAMS @F1100@
+0 @I1102@ INDI
+1 NAME Leah Naomi /Benson/
+2 SURN Benson
+2 GIVN Leah Naomi
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMC @F1100@
+1 FAMS @F1102@
+0 @I110299999@ INDI
+1 NAME Alan /Lipman/
+2 SURN Lipman
+2 GIVN Alan
+1 SEX M
+1 FAMS @F1102@
+0 @I1103@ INDI
+1 NAME Rosslie /Benson/
+2 SURN Benson
+2 GIVN Rosslie
+1 SEX F
+1 FAMC @F1100@
+1 FAMS @F1103@
+0 @I110399999@ INDI
+1 NAME Calvin C /Silverstein/
+2 SURN Silverstein
+2 GIVN Calvin C
+1 SEX M
+1 FAMS @F1103@
+0 @I1101@ INDI
+1 NAME Bessie /Frey/
+2 SURN Frey
+2 GIVN Bessie
+1 SEX F
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 1984
+1 FAMC @F111@
+1 FAMS @F1101@
+0 @I110199999@ INDI
+1 NAME Hy /Cohen/
+2 SURN Cohen
+2 GIVN Hy
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 DEAT
+2 DATE 1979
+1 FAMS @F1101@
+0 @I1160@ INDI
+1 NAME Marcia /Cohen/
+2 SURN Cohen
+2 GIVN Marcia
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 FAMC @F1101@
+1 FAMS @F1160@
+0 @I116099999@ INDI
+1 NAME Robert Joel /Frey/
+2 SURN Frey
+2 GIVN Robert Joel
+1 SEX M
+1 BIRT
+2 DATE 1939
+1 FAMS @F1160@
+0 @I1162@ INDI
+1 NAME Sharon Joyce /Frey/
+2 SURN Frey
+2 GIVN Sharon Joyce
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMC @F1160@
+0 @I1163@ INDI
+1 NAME Elaine Phyllis /Frey/
+2 SURN Frey
+2 GIVN Elaine Phyllis
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 FAMC @F1160@
+1 FAMS @F1163@
+0 @I116399999@ INDI
+1 NAME Joe /Kracht/
+2 SURN Kracht
+2 GIVN Joe
+1 SEX M
+1 FAMS @F1163@
+0 @I1164@ INDI
+1 NAME Sean /Kracht/
+2 SURN Kracht
+2 GIVN Sean
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 FAMC @F1163@
+0 @I1161@ INDI
+1 NAME Eileen Judith /Cohen/
+2 SURN Cohen
+2 GIVN Eileen Judith
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 DEAT
+2 DATE 1999
+1 FAMC @F1101@
+1 FAMS @F1161@
+0 @I116199999@ INDI
+1 NAME Jimmy LeRoy /Ruth/
+2 SURN Ruth
+2 GIVN Jimmy LeRoy
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 FAMS @F1161@
+0 @I1165@ INDI
+1 NAME Tamah Shereen /Ruth/
+2 SURN Ruth
+2 GIVN Tamah Shereen
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMC @F1161@
+1 FAMS @F1165@
+0 @I116599999@ INDI
+1 NAME William T /Nielson/
+2 SURN Nielson
+2 GIVN William T
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F1165@
+0 @I116699999@ INDI
+1 NAME Liam Elijah Alexander /Nielson/
+2 SURN Nielson
+2 GIVN Liam Elijah Alexander
+1 SEX M
+1 BIRT
+2 DATE 1997
+0 @I1167@ INDI
+1 NAME Hali Havah /Ruth/
+2 SURN Ruth
+2 GIVN Hali Havah
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMC @F1161@
+1 FAMS @F1167@
+0 @I116799999@ INDI
+1 NAME Roberts /Orantes/
+2 SURN Orantes
+2 GIVN Roberts
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 FAMS @F1167@
+0 @I1168@ INDI
+1 NAME Alia Rene /Orantes/
+2 SURN Orantes
+2 GIVN Alia Rene
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMC @F1167@
+0 @I1169@ INDI
+1 NAME Shalem Yael /Ruth/
+2 SURN Ruth
+2 GIVN Shalem Yael
+1 SEX F
+1 BIRT
+2 DATE 1970
+1 FAMC @F1161@
+1 FAMS @F1169@
+0 @I116999999@ INDI
+1 NAME Michael Brian /O'Rourke/
+2 SURN O'Rourke
+2 GIVN Michael Brian
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 FAMS @F1169@
+0 @I1170@ INDI
+1 NAME Makaela Hanna /O'Rourke/
+2 SURN O'Rourke
+2 GIVN Makaela Hanna
+1 SEX F
+1 BIRT
+2 DATE 1994
+1 FAMC @F1169@
+0 @I1171@ INDI
+1 NAME Mackenzie Yael /O'Rourke/
+2 SURN O'Rourke
+2 GIVN Mackenzie Yael
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMC @F1169@
+0 @I1172@ INDI
+1 NAME Jay Alan /Cohen/
+2 SURN Cohen
+2 GIVN Jay Alan
+1 SEX M
+1 BIRT
+2 DATE 1946
+1 FAMC @F1101@
+1 FAMS @F1172@
+0 @I117299999@ INDI
+1 NAME Cynthia Annette /Morgan/
+2 SURN Morgan
+2 GIVN Cynthia Annette
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMS @F1172@
+0 @I1173@ INDI
+1 NAME Elyse Nastasya /Cohen/
+2 SURN Cohen
+2 GIVN Elyse Nastasya
+1 SEX F
+1 BIRT
+2 DATE 1974
+1 FAMC @F1172@
+0 @I1174@ INDI
+1 NAME Philip Chapman /Cohen/
+2 SURN Cohen
+2 GIVN Philip Chapman
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMC @F1172@
+0 @I1140@ INDI
+1 NAME Pearl Pudgie /Frey/
+2 SURN Frey
+2 GIVN Pearl Pudgie
+1 SEX F
+1 BIRT
+2 DATE 1919
+1 FAMC @F111@
+1 FAMS @F1140@
+0 @I114099999@ INDI
+1 NAME Jules /Friedman/
+2 SURN Friedman
+2 GIVN Jules
+1 SEX M
+1 FAMS @F1140@
+0 @I1141@ INDI
+1 NAME Jan /Friedman/
+2 SURN Friedman
+2 GIVN Jan
+1 SEX M
+1 FAMC @F1140@
+0 @I1142@ INDI
+1 NAME Hal /Friedman/
+2 SURN Friedman
+2 GIVN Hal
+1 SEX M
+1 FAMC @F1140@
+0 @I112@ INDI
+1 NAME Abraham /Waldinger/
+2 SURN Waldinger
+2 GIVN Abraham
+1 SEX M
+1 BIRT
+2 DATE  21 Apr 1889
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE  19 Sep 1925
+1 BURI
+2 PLAC Mount Zion Cemetery
+3 MAP
+4 LATI 40.7314
+4 LONG -73.9075
+3 NOTE https://www.wikidata.org/wiki/Q6924768
+1 FAMC @F102@
+1 FAMS @F112@
+0 @I11299999@ INDI
+1 NAME Yetta /Geenberg/
+2 SURN Geenberg
+2 GIVN Yetta
+1 SEX F
+1 FAMS @F112@
+0 @I119@ INDI
+1 NAME Sylvia E /Waldinger/
+2 SURN Waldinger
+2 GIVN Sylvia E
+1 SEX F
+1 BIRT
+2 DATE  21 Jun 1917
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F112@
+1 FAMS @F119@
+0 @I11999999@ INDI
+1 NAME Arnold J /Lapidus/
+2 SURN Lapidus
+2 GIVN Arnold J
+1 SEX M
+1 FAMS @F119@
+0 @I170@ INDI
+1 NAME Arlene T /Lapidus/
+2 SURN Lapidus
+2 GIVN Arlene T
+1 SEX F
+1 BIRT
+2 DATE  29 Apr 1942
+2 PLAC Utica
+3 MAP
+4 LATI 43.096569
+4 LONG -75.231887
+3 NOTE https://www.wikidata.org/wiki/Q2495519
+1 FAMC @F119@
+1 FAMS @F170@
+0 @I17099999@ INDI
+1 NAME Richard /Platt/
+2 SURN Platt
+2 GIVN Richard
+1 SEX M
+1 FAMS @F170@
+0 @I171@ INDI
+1 NAME Robert A /Lapidus/
+2 SURN Lapidus
+2 GIVN Robert A
+1 SEX M
+1 BIRT
+2 DATE  30 Aug 1946
+2 PLAC Albany
+3 MAP
+4 LATI 42.65
+4 LONG -73.76666667
+3 NOTE https://www.wikidata.org/wiki/Q24861
+1 FAMC @F119@
+1 FAMS @F171@
+0 @I17199999@ INDI
+1 NAME Donna /Blanchard/
+2 SURN Blanchard
+2 GIVN Donna
+1 SEX F
+1 FAMS @F171@
+0 @I113@ INDI
+1 NAME Isack Wolf Reich /Waldinger/
+2 SURN Waldinger
+2 GIVN Isack Wolf Reich
+1 SEX M
+1 BIRT
+2 DATE 1877
+1 FAMC @F102@
+1 FAMS @F113@
+0 @I11399999@ INDI
+1 NAME Ettel /Unterweiser/
+2 SURN Unterweiser
+2 GIVN Ettel
+1 SEX F
+1 FAMS @F113@
+0 @I166@ INDI
+1 NAME Martin /Waldinger/
+2 SURN Waldinger
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE  31 May 1923
+1 FAMC @F113@
+1 FAMS @F166@
+0 @I16699999@ INDI
+1 NAME Esther /Dobrow/
+2 SURN Dobrow
+2 GIVN Esther
+1 SEX F
+1 FAMS @F166@
+0 @I194@ INDI
+1 NAME Ira William /Waldinger/
+2 SURN Waldinger
+2 GIVN Ira William
+1 SEX F
+1 BIRT
+2 DATE  21 Feb 1951
+1 FAMC @F166@
+1 FAMS @F194@
+0 @I19499999@ INDI
+1 NAME Amy /Abramson/
+2 SURN Abramson
+2 GIVN Amy
+1 SEX F
+1 FAMS @F194@
+0 @I196@ INDI
+1 NAME Michael /Waldinger/
+2 SURN Waldinger
+2 GIVN Michael
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMC @F194@
+0 @I197@ INDI
+1 NAME Andrew /Waldinger/
+2 SURN Waldinger
+2 GIVN Andrew
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F194@
+0 @I195@ INDI
+1 NAME Ellen /Waldinger/
+2 SURN Waldinger
+2 GIVN Ellen
+1 SEX F
+1 BIRT
+2 DATE  27 Mar 1954
+1 FAMC @F166@
+0 @I199@ INDI
+1 NAME Eisig /Waldinger/
+2 SURN Waldinger
+2 GIVN Eisig
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 FAMC @F102@
+0 @I200@ INDI
+1 NAME Kalman /Waldinger/
+2 SURN Waldinger
+2 GIVN Kalman
+1 SEX M
+1 BIRT
+2 DATE 1850
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE 1913
+2 PLAC Boryslav
+3 MAP
+4 LATI 49.28805556
+4 LONG 23.42666667
+3 NOTE https://www.wikidata.org/wiki/Q157525
+1 FAMC @F10@
+1 FAMS @F200@
+0 @I20099999@ INDI
+1 NAME Blume /Robinson/
+2 SURN Robinson
+2 GIVN Blume
+1 SEX F
+1 FAMS @F200@
+0 @I201@ INDI
+1 NAME Soloman /Waldinger/
+2 SURN Waldinger
+2 GIVN Soloman
+1 SEX M
+1 BIRT
+2 DATE 1869
+2 PLAC Boryslav
+3 MAP
+4 LATI 49.28805556
+4 LONG 23.42666667
+3 NOTE https://www.wikidata.org/wiki/Q157525
+1 DEAT
+2 DATE 1933
+1 FAMC @F200@
+1 FAMS @F201@
+0 @I20199999@ INDI
+1 NAME Anna (Hannah) /Spinat/
+2 SURN Spinat
+2 GIVN Anna (Hannah)
+1 SEX F
+1 BIRT
+2 DATE 1871
+2 PLAC Bielsko-Biała
+3 MAP
+4 LATI 49.8225
+4 LONG 19.04444444
+3 NOTE https://www.wikidata.org/wiki/Q106583
+1 FAMS @F201@
+0 @I205@ INDI
+1 NAME Ernest /Waldinger/
+2 SURN Waldinger
+2 GIVN Ernest
+1 SEX M
+1 BIRT
+2 DATE  Oct 1896
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE 1970
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F201@
+1 FAMS @F205@
+0 @I20599999@ INDI
+1 NAME Beatrice Rose /Wintenitz/
+2 SURN Wintenitz
+2 GIVN Beatrice Rose
+1 SEX F
+1 BIRT
+2 DATE 1896
+1 DEAT
+2 DATE 1969
+1 FAMS @F205@
+0 @I217@ INDI
+1 NAME Hermann V /Waldinger/
+2 SURN Waldinger
+2 GIVN Hermann V
+1 SEX M
+1 BIRT
+2 DATE  17 Jun 1923
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 FAMC @F205@
+1 FAMS @F217@
+0 @I21799999@ INDI
+1 NAME Renee /Kessler/
+2 SURN Kessler
+2 GIVN Renee
+1 SEX F
+1 BIRT
+2 DATE  26 Aug 1927
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 FAMS @F217@
+0 @I224@ INDI
+1 NAME Roger David /Waldinger/
+2 SURN Waldinger
+2 GIVN Roger David
+1 SEX M
+1 BIRT
+2 DATE 1953
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F217@
+1 FAMS @F224@
+0 @I22499999@ INDI
+1 NAME Hilary /Kantrowitz/
+2 SURN Kantrowitz
+2 GIVN Hilary
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 FAMS @F224@
+0 @I226@ INDI
+1 NAME Max /waldinger/
+2 SURN waldinger
+2 GIVN Max
+1 SEX M
+1 BIRT
+2 DATE  16 Jun 1987
+1 FAMC @F224@
+0 @I227@ INDI
+1 NAME Miriam (Mimi) /Waldinger/
+2 SURN Waldinger
+2 GIVN Miriam (Mimi)
+1 SEX F
+1 BIRT
+2 DATE  04 Dec 1993
+1 FAMC @F224@
+0 @I228@ INDI
+1 NAME Joseph Daniel /Waldinger/
+2 SURN Waldinger
+2 GIVN Joseph Daniel
+1 SEX M
+1 BIRT
+2 DATE  05 Nov 1996
+1 FAMC @F224@
+0 @I225@ INDI
+1 NAME Ellen Sally /Waldinger/
+2 SURN Waldinger
+2 GIVN Ellen Sally
+1 SEX F
+1 BIRT
+2 DATE  30 Jul 1956
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F217@
+1 FAMS @F225@
+0 @I22599999@ INDI
+1 NAME Francia /White/
+2 SURN White
+2 GIVN Francia
+1 SEX F
+1 BIRT
+2 DATE 1946
+1 FAMS @F225@
+0 @I233@ INDI
+1 NAME Matteo /Waldinger/
+2 SURN Waldinger
+2 GIVN Matteo
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMC @F225@
+0 @I218@ INDI
+1 NAME Ruth /Waldinger/
+2 SURN Waldinger
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 1927
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE 1969
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F205@
+0 @I206@ INDI
+1 NAME Theodore /Waldinger/
+2 SURN Waldinger
+2 GIVN Theodore
+1 SEX M
+1 BIRT
+2 DATE  18 Oct 1903
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 FAMC @F201@
+1 FAMS @F206@
+0 @I20699999@ INDI
+1 NAME Clara /Kossman/
+2 SURN Kossman
+2 GIVN Clara
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 FAMS @F206@
+0 @I219@ INDI
+1 NAME Greta /Waldinger/
+2 SURN Waldinger
+2 GIVN Greta
+1 SEX F
+1 BIRT
+2 DATE  02 May 1931
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 FAMC @F206@
+1 FAMS @F219@
+0 @I21999999@ INDI
+1 NAME Richard Allan /Salem/
+2 SURN Salem
+2 GIVN Richard Allan
+1 SEX M
+1 BIRT
+2 DATE  15 Aug 1930
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F219@
+0 @I244@ INDI
+1 NAME Susan Ruth /Salem/
+2 SURN Salem
+2 GIVN Susan Ruth
+1 SEX F
+1 BIRT
+2 DATE  18 Jan 1957
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F219@
+1 FAMS @F244@
+0 @I24499999@ INDI
+1 NAME Arthur /Schatz/
+2 SURN Schatz
+2 GIVN Arthur
+1 SEX M
+1 FAMS @F244@
+0 @I247@ INDI
+1 NAME Adam Louis /Schatz/
+2 SURN Schatz
+2 GIVN Adam Louis
+1 SEX M
+1 FAMC @F244@
+0 @I248@ INDI
+1 NAME Michael Ernst /Schatz/
+2 SURN Schatz
+2 GIVN Michael Ernst
+1 SEX M
+1 FAMC @F244@
+0 @I249@ INDI
+1 NAME Leah Claire /Schatz/
+2 SURN Schatz
+2 GIVN Leah Claire
+1 SEX F
+1 FAMC @F244@
+0 @I245@ INDI
+1 NAME Peter Curtis /Salem/
+2 SURN Salem
+2 GIVN Peter Curtis
+1 SEX M
+1 BIRT
+2 DATE  12 Feb 1959
+2 PLAC Washington  D.C.
+3 MAP
+4 LATI 38.895
+4 LONG -77.03666667
+3 NOTE https://www.wikidata.org/wiki/Q61
+1 FAMC @F219@
+1 FAMS @F245@
+0 @I24599999@ INDI
+1 NAME Parricia /McDonough/
+2 SURN McDonough
+2 GIVN Parricia
+1 SEX F
+1 FAMS @F245@
+0 @I250@ INDI
+1 NAME Danial Aaron /Salem/
+2 SURN Salem
+2 GIVN Danial Aaron
+1 SEX M
+1 FAMC @F245@
+0 @I246@ INDI
+1 NAME Erica Ann /Salem/
+2 SURN Salem
+2 GIVN Erica Ann
+1 SEX F
+1 BIRT
+2 DATE  22 May 1961
+2 PLAC Washington  D.C.
+3 MAP
+4 LATI 38.895
+4 LONG -77.03666667
+3 NOTE https://www.wikidata.org/wiki/Q61
+1 FAMC @F219@
+0 @I207@ INDI
+1 NAME Alfred /Waldinger/
+2 SURN Waldinger
+2 GIVN Alfred
+1 SEX M
+1 BIRT
+2 DATE  27 Mar 1905
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE  21 Sep 1991
+2 PLAC San Francisco
+3 MAP
+4 LATI 37.7775
+4 LONG -122.4163889
+3 NOTE https://www.wikidata.org/wiki/Q62
+1 FAMC @F201@
+1 FAMS @F207@
+0 @I20799999@ INDI
+1 NAME Rosa (Reisel) /Seidmann/
+2 SURN Seidmann
+2 GIVN Rosa (Reisel)
+1 SEX F
+1 BIRT
+2 PLAC Vyzhnytsia
+3 MAP
+4 LATI 48.25
+4 LONG 25.19166667
+3 NOTE https://www.wikidata.org/wiki/Q149118
+1 DEAT
+2 DATE 1970
+1 FAMS @F207@
+0 @I220@ INDI
+1 NAME Albert /Waldinger/
+2 SURN Waldinger
+2 GIVN Albert
+1 SEX M
+1 BIRT
+2 DATE  05 Nov 1936
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 FAMC @F207@
+1 FAMS @F220@
+0 @I22099999@ INDI
+1 NAME Fe /Lonto/
+2 SURN Lonto
+2 GIVN Fe
+1 SEX F
+1 BIRT
+2 PLAC Daet
+3 MAP
+4 LATI 14.11666667
+4 LONG 122.95
+3 NOTE https://www.wikidata.org/wiki/Q356655
+1 FAMS @F220@
+0 @I229@ INDI
+1 NAME Mark David /Waldinger/
+2 SURN Waldinger
+2 GIVN Mark David
+1 SEX M
+1 BIRT
+2 DATE  26 Jun 1982
+2 PLAC San Juan
+3 MAP
+4 LATI 14.6
+4 LONG 121.0333333
+3 NOTE https://www.wikidata.org/wiki/Q749283
+1 FAMC @F220@
+0 @I230@ INDI
+1 NAME Shari Ann /Waldinger/
+2 SURN Waldinger
+2 GIVN Shari Ann
+1 SEX F
+1 BIRT
+2 DATE  15 May 1984
+2 PLAC Fresno
+3 MAP
+4 LATI 36.78166667
+4 LONG -119.7922222
+3 NOTE https://www.wikidata.org/wiki/Q43301
+1 FAMC @F220@
+0 @I208@ INDI
+1 NAME Dinah /Waldinger/
+2 SURN Waldinger
+2 GIVN Dinah
+1 SEX F
+1 BIRT
+2 DATE  Jul 1898
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE 1984
+2 PLAC Tivon
+3 MAP
+4 LATI 32.72
+4 LONG 35.1278
+3 NOTE https://www.wikidata.org/wiki/Q12059067
+1 FAMC @F201@
+1 FAMS @F208@
+0 @I20899999@ INDI
+1 NAME Alexander (Sandor) /Frank/
+2 SURN Frank
+2 GIVN Alexander (Sandor)
+1 SEX M
+1 FAMS @F208@
+0 @I231@ INDI
+1 NAME Geraldine (Gerti) /Frank/
+2 SURN Frank
+2 GIVN Geraldine (Gerti)
+1 SEX F
+1 BIRT
+2 DATE 1923
+1 FAMC @F208@
+0 @I232@ INDI
+1 NAME Matilde (Minna) /Waldinger/
+2 SURN Waldinger
+2 GIVN Matilde (Minna)
+1 SEX F
+1 FAMC @F200@
+0 @I500@ INDI
+1 NAME Meyer /Waldinger/
+2 SURN Waldinger
+2 GIVN Meyer
+1 SEX M
+1 BIRT
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 FAMC @F10@
+1 FAMS @F500@
+0 @I501@ INDI
+1 NAME Bemard /Waldinger/
+2 SURN Waldinger
+2 GIVN Bemard
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 PLAC Drohobych
+3 MAP
+4 LATI 49.35
+4 LONG 23.5
+3 NOTE https://www.wikidata.org/wiki/Q158821
+1 DEAT
+2 DATE 1960
+1 FAMC @F500@
+1 FAMS @F501@
+0 @I50199999@ INDI
+1 NAME Minnie /Klinghoffer/
+2 SURN Klinghoffer
+2 GIVN Minnie
+1 SEX F
+1 FAMS @F501@
+0 @I514@ INDI
+1 NAME Samuel /Waldinger/
+2 SURN Waldinger
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F501@
+1 FAMS @F514@
+0 @I51499999@ INDI
+1 NAME Sylvia /Olmer/
+2 SURN Olmer
+2 GIVN Sylvia
+1 SEX F
+1 BIRT
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F514@
+0 @I506@ INDI
+1 NAME Bernard /Waldinger/
+2 SURN Waldinger
+2 GIVN Bernard
+1 SEX M
+1 BIRT
+2 DATE  30 Aug 1936
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F514@
+1 FAMS @F506@
+0 @I50699999@ INDI
+1 NAME Ronda /Trifon/
+2 SURN Trifon
+2 GIVN Ronda
+1 SEX F
+1 FAMS @F506@
+0 @I525@ INDI
+1 NAME William /Waldinger/
+2 SURN Waldinger
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE  02 Oct 1961
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F506@
+0 @I515@ INDI
+1 NAME Melissa /Waldinger/
+2 SURN Waldinger
+2 GIVN Melissa
+1 SEX F
+1 BIRT
+2 DATE  15 Sep 1965
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F506@
+0 @I507@ INDI
+1 NAME Shiela /Waldinger/
+2 SURN Waldinger
+2 GIVN Shiela
+1 SEX F
+1 FAMC @F514@
+1 FAMS @F507@
+0 @I50799999@ INDI
+1 NAME Sheldon /Pass/
+2 SURN Pass
+2 GIVN Sheldon
+1 SEX M
+1 FAMS @F507@
+0 @I516@ INDI
+1 NAME Robert /Pass/
+2 SURN Pass
+2 GIVN Robert
+1 SEX M
+1 FAMC @F507@
+0 @I517@ INDI
+1 NAME Adam /Pass/
+2 SURN Pass
+2 GIVN Adam
+1 SEX M
+1 FAMC @F507@
+0 @I502@ INDI
+1 NAME Rose /Waldinger/
+2 SURN Waldinger
+2 GIVN Rose
+1 SEX F
+1 BIRT
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 PLAC Queens
+3 MAP
+4 LATI 40.70416667
+4 LONG -73.91777778
+3 NOTE https://www.wikidata.org/wiki/Q18424
+1 FAMC @F501@
+1 FAMS @F502@
+0 @I50299999@ INDI
+1 NAME Sam /Dlugo/
+2 SURN Dlugo
+2 GIVN Sam
+1 SEX M
+1 FAMS @F502@
+0 @I518@ INDI
+1 NAME Arthur /Dlugo/
+2 SURN Dlugo
+2 GIVN Arthur
+1 SEX M
+1 BIRT
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F502@
+0 @I519@ INDI
+1 NAME Bernard /Dlugo/
+2 SURN Dlugo
+2 GIVN Bernard
+1 SEX M
+1 BIRT
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F502@
+0 @I521@ INDI
+1 NAME Lenore /Dlugo/
+2 SURN Dlugo
+2 GIVN Lenore
+1 SEX F
+1 BIRT
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F502@
+0 @I503@ INDI
+1 NAME Leo /Waldinger/
+2 SURN Waldinger
+2 GIVN Leo
+1 SEX M
+1 BIRT
+2 DATE 1902
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 1953
+2 PLAC Elmont
+3 MAP
+4 LATI 40.7017
+4 LONG -73.7025
+3 NOTE https://www.wikidata.org/wiki/Q3300920
+1 FAMC @F501@
+1 FAMS @F503@
+0 @I50399999@ INDI
+1 NAME Anita /Kahn/
+2 SURN Kahn
+2 GIVN Anita
+1 SEX F
+1 FAMS @F503@
+0 @I508@ INDI
+1 NAME Edward J /Waldinger/
+2 SURN Waldinger
+2 GIVN Edward J
+1 SEX M
+1 BIRT
+2 DATE  23 Aug 1940
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F503@
+1 FAMS @F508@
+0 @I50899999@ INDI
+1 NAME Elaine /Schiller/
+2 SURN Schiller
+2 GIVN Elaine
+1 SEX F
+1 FAMS @F508@
+0 @I509@ INDI
+1 NAME Larry /Waldinger/
+2 SURN Waldinger
+2 GIVN Larry
+1 SEX M
+1 BIRT
+2 DATE  21 Jul 1968
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 FAMC @F508@
+0 @I510@ INDI
+1 NAME David /Waldinger/
+2 SURN Waldinger
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE  23 Apr 1973
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 FAMC @F508@
+0 @I511@ INDI
+1 NAME Bonnie /Waldinger/
+2 SURN Waldinger
+2 GIVN Bonnie
+1 SEX F
+1 BIRT
+2 DATE 06-Jan
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F503@
+1 FAMS @F511@
+0 @I51199999@ INDI
+1 NAME  /Lane/
+2 SURN Lane
+2 GIVN 
+1 SEX M
+1 FAMS @F511@
+0 @I512@ INDI
+1 NAME Adam /Lane/
+2 SURN Lane
+2 GIVN Adam
+1 SEX M
+1 FAMC @F511@
+0 @I513@ INDI
+1 NAME Jennifer /Waldinger/
+2 SURN Waldinger
+2 GIVN Jennifer
+1 SEX F
+1 FAMC @F511@
+0 @I504@ INDI
+1 NAME Fanny /Waldinger/
+2 SURN Waldinger
+2 GIVN Fanny
+1 SEX F
+1 BIRT
+2 PLAC Queens
+3 MAP
+4 LATI 40.70416667
+4 LONG -73.91777778
+3 NOTE https://www.wikidata.org/wiki/Q18424
+1 FAMC @F501@
+1 FAMS @F504@
+0 @I50499999@ INDI
+1 NAME Lou /Steinberg/
+2 SURN Steinberg
+2 GIVN Lou
+1 SEX M
+1 FAMS @F504@
+0 @I522@ INDI
+1 NAME Betty Mae /Steinberg/
+2 SURN Steinberg
+2 GIVN Betty Mae
+1 SEX F
+1 BIRT
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F504@
+0 @I523@ INDI
+1 NAME Martin /Steinberg/
+2 SURN Steinberg
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F504@
+0 @I505@ INDI
+1 NAME Judith /Waldinger/
+2 SURN Waldinger
+2 GIVN Judith
+1 SEX F
+1 DEAT
+2 PLAC Long Island
+3 MAP
+4 LATI 40.805805
+4 LONG -73.253616
+3 NOTE https://www.wikidata.org/wiki/Q18438
+1 FAMC @F501@
+1 FAMS @F505@
+0 @I50599999@ INDI
+1 NAME Ralph /Cavalaro/
+2 SURN Cavalaro
+2 GIVN Ralph
+1 SEX M
+1 FAMS @F505@
+0 @I524@ INDI
+1 NAME Margo /Cavalaro/
+2 SURN Cavalaro
+2 GIVN Margo
+1 SEX F
+1 FAMC @F505@
+0 @I300@ INDI
+1 NAME Abraham /Waldinger/
+2 SURN Waldinger
+2 GIVN Abraham
+1 SEX M
+1 BIRT
+2 DATE 1851
+1 DEAT
+2 DATE 1910
+1 FAMC @F10@
+1 FAMS @F300@
+0 @I301@ INDI
+1 NAME Morris /Waldinger/
+2 SURN Waldinger
+2 GIVN Morris
+1 SEX M
+1 BIRT
+2 DATE  22 Jul 1894
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 1952
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F300@
+1 FAMS @F301@
+0 @I30199999@ INDI
+1 NAME Theresa /Wolburg/
+2 SURN Wolburg
+2 GIVN Theresa
+1 SEX F
+1 BIRT
+2 DATE  11 Jan 1894
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 1983
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F301@
+0 @I304@ INDI
+1 NAME Paul /Waldinger/
+2 SURN Waldinger
+2 GIVN Paul
+1 SEX M
+1 BIRT
+2 DATE  27 Mar 1919
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 DEAT
+2 DATE  25 Mar 1988
+2 PLAC Waco
+3 MAP
+4 LATI 31.55138889
+4 LONG -97.15583333
+3 NOTE https://www.wikidata.org/wiki/Q128244
+1 FAMC @F301@
+1 FAMS @F304@
+0 @I30499999@ INDI
+1 NAME Janice /Weinberg/
+2 SURN Weinberg
+2 GIVN Janice
+1 SEX F
+1 BIRT
+2 DATE  20 Jun 1916
+2 PLAC The Bronx
+3 MAP
+4 LATI 40.84676
+4 LONG -73.873207
+3 NOTE https://www.wikidata.org/wiki/Q18426
+1 FAMS @F304@
+0 @I310@ INDI
+1 NAME Arthur /Waldinger/
+2 SURN Waldinger
+2 GIVN Arthur
+1 SEX M
+1 BIRT
+2 DATE  06 Jan 1947
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 FAMC @F304@
+1 FAMS @F310@
+0 @I31099999@ INDI
+1 NAME Gaile /Weisbly/
+2 SURN Weisbly
+2 GIVN Gaile
+1 SEX F
+1 BIRT
+2 DATE  12 Oct 1947
+2 PLAC Denver
+3 MAP
+4 LATI 39.73916667
+4 LONG -104.9847222
+3 NOTE https://www.wikidata.org/wiki/Q16554
+1 FAMS @F310@
+0 @I318@ INDI
+1 NAME Eric /Waldinger/
+2 SURN Waldinger
+2 GIVN Eric
+1 SEX M
+1 BIRT
+2 DATE  15 Jul 1976
+2 PLAC Houston
+3 MAP
+4 LATI 29.76277778
+4 LONG -95.38305556
+3 NOTE https://www.wikidata.org/wiki/Q16555
+1 FAMC @F310@
+0 @I336@ INDI
+1 NAME Michael /Waldinger/
+2 SURN Waldinger
+2 GIVN Michael
+1 SEX M
+1 BIRT
+2 DATE  15 Jul 1976
+2 PLAC Houston
+3 MAP
+4 LATI 29.76277778
+4 LONG -95.38305556
+3 NOTE https://www.wikidata.org/wiki/Q16555
+1 FAMC @F310@
+0 @I334@ INDI
+1 NAME Marilyn /Waldinger/
+2 SURN Waldinger
+2 GIVN Marilyn
+1 SEX F
+1 BIRT
+2 DATE  08 Jan 1943
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 FAMC @F304@
+1 FAMS @F334@
+0 @I33499999@ INDI
+1 NAME Al /Cohen/
+2 SURN Cohen
+2 GIVN Al
+1 SEX M
+1 BIRT
+2 PLAC El Paso
+3 MAP
+4 LATI 31.75916667
+4 LONG -106.4886111
+3 NOTE https://www.wikidata.org/wiki/Q16562
+1 FAMS @F334@
+0 @I337@ INDI
+1 NAME Tara /Cohen/
+2 SURN Cohen
+2 GIVN Tara
+1 SEX F
+1 BIRT
+2 DATE  04 Jul 1971
+2 PLAC Houston
+3 MAP
+4 LATI 29.76277778
+4 LONG -95.38305556
+3 NOTE https://www.wikidata.org/wiki/Q16555
+1 FAMC @F334@
+1 FAMS @F337@
+0 @I344@ INDI
+1 NAME Jessica Lynn /Taylor/
+2 SURN Taylor
+2 GIVN Jessica Lynn
+1 SEX F
+1 BIRT
+2 DATE  22 Apr 1995
+1 FAMC @F337@
+0 @I335@ INDI
+1 NAME Ruth /Waldinger/
+2 SURN Waldinger
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE  20 Jun 1949
+2 PLAC Flushing
+3 MAP
+4 LATI 40.76583
+4 LONG -73.833084
+3 NOTE https://www.wikidata.org/wiki/Q1058775
+1 FAMC @F304@
+1 FAMS @F335@
+0 @I33599999@ INDI
+1 NAME Larry /Cressy/
+2 SURN Cressy
+2 GIVN Larry
+1 SEX M
+1 FAMS @F335@
+0 @I305@ INDI
+1 NAME Richard /Waldinger/
+2 SURN Waldinger
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE  07 Oct 1928
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F301@
+1 FAMS @F305@
+0 @I30599999@ INDI
+1 NAME Barbara /Sholtz/
+2 SURN Sholtz
+2 GIVN Barbara
+1 SEX F
+1 BIRT
+2 DATE  21 Feb 1930
+2 PLAC Scarsdale
+3 MAP
+4 LATI 40.99222222
+4 LONG -73.78694444
+3 NOTE https://www.wikidata.org/wiki/Q2300959
+1 FAMS @F305@
+0 @I338@ INDI
+1 NAME Thomas /Waldinger/
+2 SURN Waldinger
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE  17 Feb 1955
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F305@
+1 FAMS @F338@
+0 @I33899999@ INDI
+1 NAME Marcy /Boehm/
+2 SURN Boehm
+2 GIVN Marcy
+1 SEX F
+1 BIRT
+2 PLAC Southfield
+3 MAP
+4 LATI 42.47333333
+4 LONG -83.22166667
+3 NOTE https://www.wikidata.org/wiki/Q988159
+1 FAMS @F338@
+0 @I339@ INDI
+1 NAME Jason /Waldinger/
+2 SURN Waldinger
+2 GIVN Jason
+1 SEX M
+1 BIRT
+2 DATE  Oct 1983
+1 FAMC @F338@
+0 @I340@ INDI
+1 NAME Emily /Waldinger/
+2 SURN Waldinger
+2 GIVN Emily
+1 SEX F
+1 BIRT
+2 DATE  Apr 1985
+1 FAMC @F338@
+0 @I341@ INDI
+1 NAME Amy Lax /Waldinger/
+2 SURN Waldinger
+2 GIVN Amy Lax
+1 SEX F
+1 BIRT
+2 DATE  10 Apr 1953
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F305@
+1 FAMS @F341@
+0 @I34199999@ INDI
+1 NAME Alan /Lax/
+2 SURN Lax
+2 GIVN Alan
+1 SEX M
+1 BIRT
+2 DATE 1947
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F341@
+0 @I342@ INDI
+1 NAME Jonathan Powell /Lax/
+2 SURN Lax
+2 GIVN Jonathan Powell
+1 SEX M
+1 BIRT
+2 DATE  17 Oct 1984
+1 FAMC @F341@
+0 @I343@ INDI
+1 NAME Andrew Waldinger /Lax/
+2 SURN Lax
+2 GIVN Andrew Waldinger
+1 SEX M
+1 BIRT
+2 DATE  13 Mar 1989
+1 FAMC @F341@
+0 @I306@ INDI
+1 NAME Herbert /Waldinger/
+2 SURN Waldinger
+2 GIVN Herbert
+1 SEX M
+1 BIRT
+2 DATE  22 Nov 1921
+2 PLAC Dobbs Ferry
+3 MAP
+4 LATI 41.01277778
+4 LONG -73.86611111
+3 NOTE https://www.wikidata.org/wiki/Q1233173
+1 DEAT
+2 DATE  22 Aug 1986
+2 PLAC Greenville
+3 MAP
+4 LATI 40.9967
+4 LONG -73.8172
+3 NOTE https://www.wikidata.org/wiki/Q8965042
+1 FAMC @F301@
+1 FAMS @F306@
+0 @I30699999@ INDI
+1 NAME Michelle Mickey /Rubin/
+2 SURN Rubin
+2 GIVN Michelle Mickey
+1 SEX F
+1 BIRT
+2 DATE  29 Jun 1921
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F306@
+0 @I345@ INDI
+1 NAME Margarett /Waldinger/
+2 SURN Waldinger
+2 GIVN Margarett
+1 SEX F
+1 BIRT
+2 DATE  12 Jun 1949
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F306@
+1 FAMS @F345@
+0 @I34599999@ INDI
+1 NAME Leslie /Seff/
+2 SURN Seff
+2 GIVN Leslie
+1 SEX M
+1 BIRT
+2 DATE  03 Oct 1950
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F345@
+0 @I346@ INDI
+1 NAME Dylan /Seff/
+2 SURN Seff
+2 GIVN Dylan
+1 SEX M
+1 BIRT
+2 DATE  05 Oct 1974
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F345@
+0 @I347@ INDI
+1 NAME Cortney /Seff/
+2 SURN Seff
+2 GIVN Cortney
+1 SEX F
+1 BIRT
+2 DATE  08 Jan 1977
+1 FAMC @F345@
+0 @I353@ INDI
+1 NAME Blake /Seff/
+2 SURN Seff
+2 GIVN Blake
+1 SEX M
+1 BIRT
+2 DATE  28 Jul 1981
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F345@
+0 @I302@ INDI
+1 NAME David /Waldinger/
+2 SURN Waldinger
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1865
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 DEAT
+2 DATE 1923
+1 FAMC @F300@
+1 FAMS @F302@
+0 @I30299999@ INDI
+1 NAME Marie /Schecter/
+2 SURN Schecter
+2 GIVN Marie
+1 SEX F
+1 FAMS @F302@
+0 @I307@ INDI
+1 NAME Harry /Waldinger/
+2 SURN Waldinger
+2 GIVN Harry
+1 SEX M
+1 BIRT
+2 DATE  06 Aug 1904
+1 DEAT
+2 DATE  12 Mar 1982
+2 PLAC New Jersey
+3 MAP
+4 LATI 40
+4 LONG -74.5
+3 NOTE https://www.wikidata.org/wiki/Q1408
+1 FAMC @F302@
+1 FAMS @F307@
+0 @I30799999@ INDI
+1 NAME Irene /Levine/
+2 SURN Levine
+2 GIVN Irene
+1 SEX F
+1 BIRT
+2 DATE  18 Feb 1906
+2 PLAC Russia
+3 MAP
+4 LATI 62
+4 LONG 100
+3 NOTE https://www.wikidata.org/wiki/Q159
+1 FAMS @F307@
+0 @I313@ INDI
+1 NAME Stanley /Waldinger/
+2 SURN Waldinger
+2 GIVN Stanley
+1 SEX M
+1 BIRT
+2 DATE  15 Oct 1929
+2 PLAC New Jersey
+3 MAP
+4 LATI 40
+4 LONG -74.5
+3 NOTE https://www.wikidata.org/wiki/Q1408
+1 DEAT
+2 DATE  19 Oct 1995
+2 PLAC Paramus
+3 MAP
+4 LATI 40.94
+4 LONG -74.07111111
+3 NOTE https://www.wikidata.org/wiki/Q1021714
+1 FAMC @F307@
+1 FAMS @F313@
+0 @I31399999@ INDI
+1 NAME Elenore /Parkinson/
+2 SURN Parkinson
+2 GIVN Elenore
+1 SEX F
+1 BIRT
+2 DATE  17 Oct 1939
+2 PLAC Topeka
+3 MAP
+4 LATI 39.04833
+4 LONG -95.67804
+3 NOTE https://www.wikidata.org/wiki/Q41057
+1 FAMS @F313@
+0 @I319@ INDI
+1 NAME Steven Emanuel /Waldinger/
+2 SURN Waldinger
+2 GIVN Steven Emanuel
+1 SEX M
+1 BIRT
+2 DATE  08 Jul 1963
+2 PLAC Jersey City
+3 MAP
+4 LATI 40.71138889
+4 LONG -74.06472222
+3 NOTE https://www.wikidata.org/wiki/Q26339
+1 FAMC @F313@
+1 FAMS @F319@
+0 @I31999999@ INDI
+1 NAME Sally Ann /Jones/
+2 SURN Jones
+2 GIVN Sally Ann
+1 SEX F
+1 FAMS @F319@
+0 @I365@ INDI
+1 NAME Sarah Emily /Waldinger/
+2 SURN Waldinger
+2 GIVN Sarah Emily
+1 SEX F
+1 BIRT
+2 DATE  23 Jun 1997
+1 FAMC @F319@
+0 @I320@ INDI
+1 NAME Daniel Milton /Waldinger/
+2 SURN Waldinger
+2 GIVN Daniel Milton
+1 SEX M
+1 BIRT
+2 DATE  15 Jun 1966
+2 PLAC Weehawken
+3 MAP
+4 LATI 40.76955
+4 LONG -74.02042
+3 NOTE https://www.wikidata.org/wiki/Q176410
+1 FAMC @F313@
+1 FAMS @F320@
+0 @I32099999@ INDI
+1 NAME Alyson /Andalft/
+2 SURN Andalft
+2 GIVN Alyson
+1 SEX F
+1 FAMS @F320@
+0 @I314@ INDI
+1 NAME Marylyn /Waldinger/
+2 SURN Waldinger
+2 GIVN Marylyn
+1 SEX F
+1 FAMC @F307@
+1 FAMS @F314@
+0 @I31499999@ INDI
+1 NAME  /Parker/
+2 SURN Parker
+2 GIVN 
+1 SEX M
+1 FAMS @F314@
+0 @I361@ INDI
+1 NAME Ellen Parker /Brilliant/
+2 SURN Brilliant
+2 GIVN Ellen Parker
+1 SEX F
+1 BIRT
+2 DATE  30 Jan 1962
+1 FAMC @F314@
+1 FAMS @F361@
+0 @I363@ INDI
+1 NAME Parker /Brilliant/
+2 SURN Brilliant
+2 GIVN Parker
+1 SEX M
+1 BIRT
+2 DATE  17 Jul 1993
+1 FAMC @F361@
+0 @I362@ INDI
+1 NAME Andrew Emanuel /Parker/
+2 SURN Parker
+2 GIVN Andrew Emanuel
+1 SEX M
+1 BIRT
+2 DATE  06 Oct 1957
+2 PLAC The Bronx
+3 MAP
+4 LATI 40.84676
+4 LONG -73.873207
+3 NOTE https://www.wikidata.org/wiki/Q18426
+1 FAMC @F314@
+1 FAMS @F362@
+0 @I364@ INDI
+1 NAME Gloria /Parker/
+2 SURN Parker
+2 GIVN Gloria
+1 SEX F
+1 BIRT
+2 DATE  27 Jan 1997
+1 FAMC @F362@
+0 @I308@ INDI
+1 NAME Benjamin /Waldinger/
+2 SURN Waldinger
+2 GIVN Benjamin
+1 SEX M
+1 BIRT
+2 DATE  16 Apr 1913
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMC @F302@
+0 @I348@ INDI
+1 NAME Beatrice /Waldinger/
+2 SURN Waldinger
+2 GIVN Beatrice
+1 SEX F
+1 BIRT
+2 DATE  08 Aug 1902
+2 PLAC Ivano-Frankivsk
+3 MAP
+4 LATI 48.92277778
+4 LONG 24.71055556
+3 NOTE https://www.wikidata.org/wiki/Q156726
+1 FAMC @F302@
+1 FAMS @F348@
+0 @I34899999@ INDI
+1 NAME lrving /Ackerman/
+2 SURN Ackerman
+2 GIVN lrving
+1 SEX M
+1 FAMS @F348@
+0 @I349@ INDI
+1 NAME Marvin /Ackerman/
+2 SURN Ackerman
+2 GIVN Marvin
+1 SEX M
+1 FAMC @F348@
+0 @I355@ INDI
+1 NAME David /Ackerman/
+2 SURN Ackerman
+2 GIVN David
+1 SEX M
+1 FAMC @F348@
+0 @I356@ INDI
+1 NAME Emanuel /Waldinger/
+2 SURN Waldinger
+2 GIVN Emanuel
+1 SEX M
+1 FAMC @F302@
+1 FAMS @F356@
+0 @I35699999@ INDI
+1 NAME  /Regina/
+2 SURN Regina
+2 GIVN 
+1 SEX F
+1 FAMS @F356@
+0 @I350@ INDI
+1 NAME Irving /Waldinger/
+2 SURN Waldinger
+2 GIVN Irving
+1 SEX M
+1 FAMC @F300@
+0 @I351@ INDI
+1 NAME Miriam /Waldinger/
+2 SURN Waldinger
+2 GIVN Miriam
+1 SEX F
+1 FAMC @F300@
+0 @I352@ INDI
+1 NAME Goldie /Waldinger/
+2 SURN Waldinger
+2 GIVN Goldie
+1 SEX F
+1 FAMC @F300@
+0 @I400@ INDI
+1 NAME Joseph Samuel /Waldinger/
+2 SURN Waldinger
+2 GIVN Joseph Samuel
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F400@
+0 @I401@ INDI
+1 NAME Meir Harry /Waldinger/
+2 SURN Waldinger
+2 GIVN Meir Harry
+1 SEX M
+1 BIRT
+2 DATE 1876
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE 1935
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F400@
+1 FAMS @F401@
+0 @I40199999@ INDI
+1 NAME Golda /Yeager/
+2 SURN Yeager
+2 GIVN Golda
+1 SEX F
+1 FAMS @F401@
+0 @I403@ INDI
+1 NAME Mose /Waldinger/
+2 SURN Waldinger
+2 GIVN Mose
+1 SEX M
+1 BIRT
+2 DATE  19 Sep 1908
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 DEAT
+2 DATE  23 Dec 1996
+2 PLAC Palm Springs
+3 MAP
+4 LATI 33.82388889
+4 LONG -116.5302778
+3 NOTE https://www.wikidata.org/wiki/Q488004
+1 FAMC @F401@
+1 FAMS @F403@
+0 @I40399999@ INDI
+1 NAME Bessie E /Duitch/
+2 SURN Duitch
+2 GIVN Bessie E
+1 SEX F
+1 BIRT
+2 DATE  25 Dec 1910
+2 PLAC Chicago
+3 MAP
+4 LATI 41.88194444
+4 LONG -87.62777778
+3 NOTE https://www.wikidata.org/wiki/Q1297
+1 FAMS @F403@
+0 @I409@ INDI
+1 NAME Martin Harris /Waldinger/
+2 SURN Waldinger
+2 GIVN Martin Harris
+1 SEX M
+1 BIRT
+2 DATE  05 Jul 1938
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F403@
+1 FAMS @F409@
+0 @I40999999@ INDI
+1 NAME Beth /Perlmutter/
+2 SURN Perlmutter
+2 GIVN Beth
+1 SEX F
+1 BIRT
+2 DATE  13 Nov 1943
+2 PLAC St. Louis
+3 MAP
+4 LATI 38.61666667
+4 LONG -90.2
+3 NOTE https://www.wikidata.org/wiki/Q38022
+1 FAMS @F409@
+0 @I422@ INDI
+1 NAME Richard Neal /Waldinger/
+2 SURN Waldinger
+2 GIVN Richard Neal
+1 SEX M
+1 BIRT
+2 DATE  18 Mar 1968
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F409@
+0 @I424@ INDI
+1 NAME Wendy Beth /Waldinger/
+2 SURN Waldinger
+2 GIVN Wendy Beth
+1 SEX F
+1 BIRT
+2 DATE  19 Mar 1970
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F409@
+1 FAMS @F424@
+0 @I42499999@ INDI
+1 NAME Davi Scott /Carriere/
+2 SURN Carriere
+2 GIVN Davi Scott
+1 SEX M
+1 BIRT
+2 DATE  26 Mar 1968
+2 PLAC Lachine
+3 MAP
+4 LATI 45.44188889
+4 LONG -73.6926
+3 NOTE https://www.wikidata.org/wiki/Q1474128
+1 FAMS @F424@
+0 @I435@ INDI
+1 NAME Chloe J /Carriere/
+2 SURN Carriere
+2 GIVN Chloe J
+1 SEX F
+1 BIRT
+2 DATE  28 Sep 1997
+2 PLAC Denver
+3 MAP
+4 LATI 39.73916667
+4 LONG -104.9847222
+3 NOTE https://www.wikidata.org/wiki/Q16554
+1 FAMC @F424@
+0 @I423@ INDI
+1 NAME John /Waldinger/
+2 SURN Waldinger
+2 GIVN John
+1 SEX M
+1 FAMC @F409@
+0 @I410@ INDI
+1 NAME Janice Harriet /Waldinger/
+2 SURN Waldinger
+2 GIVN Janice Harriet
+1 SEX F
+1 BIRT
+2 DATE  30 Jun 1936
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F403@
+1 FAMS @F410@
+0 @I41099999@ INDI
+1 NAME Alan Zuchert /July-/
+2 SURN July-
+2 GIVN Alan Zuchert
+1 SEX M
+1 BIRT
+2 DATE 08-Jul
+2 PLAC Minneapolis
+3 MAP
+4 LATI 44.98194444
+4 LONG -93.26916667
+3 NOTE https://www.wikidata.org/wiki/Q36091
+1 FAMS @F410@
+0 @I426@ INDI
+1 NAME Michael /Zuchert/
+2 SURN Zuchert
+2 GIVN Michael
+1 SEX M
+1 BIRT
+2 DATE  27 Jun 1958
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F410@
+1 FAMS @F426@
+0 @I42699999@ INDI
+1 NAME Ellen /Rosen/
+2 SURN Rosen
+2 GIVN Ellen
+1 SEX F
+1 FAMS @F426@
+0 @I427@ INDI
+1 NAME Sarah Zuckert /Zuchert/
+2 SURN Zuchert
+2 GIVN Sarah Zuckert
+1 SEX F
+1 BIRT
+2 DATE 02-Oct
+1 FAMC @F426@
+0 @I428@ INDI
+1 NAME Benjamin Zuchert /December-/
+2 SURN December-
+2 GIVN Benjamin Zuchert
+1 SEX M
+1 BIRT
+2 DATE 01-Dec
+1 FAMC @F426@
+0 @I429@ INDI
+1 NAME Susan /Zuchert/
+2 SURN Zuchert
+2 GIVN Susan
+1 SEX F
+1 BIRT
+2 DATE  12 Sep 1960
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F410@
+1 FAMS @F429@
+0 @I42999999@ INDI
+1 NAME David /Hennes/
+2 SURN Hennes
+2 GIVN David
+1 SEX M
+1 FAMS @F429@
+0 @I431@ INDI
+1 NAME Daniel Nathan /Hennes/
+2 SURN Hennes
+2 GIVN Daniel Nathan
+1 SEX M
+1 BIRT
+2 DATE  04 Sep 1996
+1 FAMC @F429@
+0 @I430@ INDI
+1 NAME John Bradley /Zuckert/
+2 SURN Zuckert
+2 GIVN John Bradley
+1 SEX M
+1 BIRT
+2 DATE  19 Apr 1964
+1 FAMC @F410@
+0 @I404@ INDI
+1 NAME Joseph I /Waldinger/
+2 SURN Waldinger
+2 GIVN Joseph I
+1 SEX M
+1 BIRT
+2 DATE  06 Mar 1902
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE  28 Apr 1993
+2 PLAC Scottsdale
+3 MAP
+4 LATI 33.49305556
+4 LONG -111.9261111
+3 NOTE https://www.wikidata.org/wiki/Q49221
+1 FAMC @F401@
+1 FAMS @F404@
+0 @I411@ INDI
+1 NAME Irene /Waldinger/
+2 SURN Waldinger
+2 GIVN Irene
+1 SEX F
+1 BIRT
+2 DATE  18 Nov 1933
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F404@
+1 FAMS @F411@
+0 @I41199999@ INDI
+1 NAME Donald S /Lubin/
+2 SURN Lubin
+2 GIVN Donald S
+1 SEX M
+1 BIRT
+2 DATE  02 Feb 1933
+2 PLAC Penns Grove
+3 MAP
+4 LATI 39.72806
+4 LONG -75.46778
+3 NOTE https://www.wikidata.org/wiki/Q1085939
+1 FAMS @F411@
+0 @I465@ INDI
+1 NAME Scott /Lubin/
+2 SURN Lubin
+2 GIVN Scott
+1 SEX M
+1 BIRT
+2 DATE  13 Aug 1956
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F411@
+0 @I466@ INDI
+1 NAME Celia Mollie /Lubin/
+2 SURN Lubin
+2 GIVN Celia Mollie
+1 SEX F
+1 BIRT
+2 DATE  17 Dec 1957
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F411@
+1 FAMS @F466@
+0 @I46699999@ INDI
+1 NAME Maury B /Feuerman/
+2 SURN Feuerman
+2 GIVN Maury B
+1 SEX M
+1 BIRT
+2 DATE  09 Aug 1956
+2 PLAC Detroit
+3 MAP
+4 LATI 42.33166667
+4 LONG -83.0475
+3 NOTE https://www.wikidata.org/wiki/Q12439
+1 FAMS @F466@
+0 @I467@ INDI
+1 NAME Lauren N /Feuerman/
+2 SURN Feuerman
+2 GIVN Lauren N
+1 SEX F
+1 BIRT
+2 DATE  08 Oct 1983
+2 PLAC Detroit
+3 MAP
+4 LATI 42.33166667
+4 LONG -83.0475
+3 NOTE https://www.wikidata.org/wiki/Q12439
+1 FAMC @F466@
+0 @I468@ INDI
+1 NAME Andrea Eve /Feuerman/
+2 SURN Feuerman
+2 GIVN Andrea Eve
+1 SEX F
+1 BIRT
+2 DATE  22 Dec 1987
+2 PLAC Detroit
+3 MAP
+4 LATI 42.33166667
+4 LONG -83.0475
+3 NOTE https://www.wikidata.org/wiki/Q12439
+1 FAMC @F466@
+0 @I469@ INDI
+1 NAME Matthew J /Feuerman/
+2 SURN Feuerman
+2 GIVN Matthew J
+1 SEX M
+1 BIRT
+2 DATE  29 Jun 1990
+2 PLAC Detroit
+3 MAP
+4 LATI 42.33166667
+4 LONG -83.0475
+3 NOTE https://www.wikidata.org/wiki/Q12439
+1 FAMC @F466@
+0 @I470@ INDI
+1 NAME Blake A /Feuerman/
+2 SURN Feuerman
+2 GIVN Blake A
+1 SEX M
+1 BIRT
+2 DATE  05 May 1992
+2 PLAC Detroit
+3 MAP
+4 LATI 42.33166667
+4 LONG -83.0475
+3 NOTE https://www.wikidata.org/wiki/Q12439
+1 FAMC @F466@
+0 @I471@ INDI
+1 NAME Marcia Tamara /Lubin/
+2 SURN Lubin
+2 GIVN Marcia Tamara
+1 SEX F
+1 BIRT
+2 DATE  20 Mar 1959
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F411@
+1 FAMS @F471@
+0 @I47199999@ INDI
+1 NAME Ira Jay /Rose/
+2 SURN Rose
+2 GIVN Ira Jay
+1 SEX F
+1 BIRT
+2 DATE  10 Jun 1958
+2 PLAC Philadelphia
+3 MAP
+4 LATI 39.95277778
+4 LONG -75.16361111
+3 NOTE https://www.wikidata.org/wiki/Q1345
+1 FAMS @F471@
+0 @I472@ INDI
+1 NAME Megan Gabrielle /Rose/
+2 SURN Rose
+2 GIVN Megan Gabrielle
+1 SEX F
+1 BIRT
+2 DATE  15 Nov 1991
+2 PLAC Scottsdale
+3 MAP
+4 LATI 33.49305556
+4 LONG -111.9261111
+3 NOTE https://www.wikidata.org/wiki/Q49221
+1 FAMC @F471@
+0 @I473@ INDI
+1 NAME Emily Jessica /Rose/
+2 SURN Rose
+2 GIVN Emily Jessica
+1 SEX F
+1 BIRT
+2 DATE  12 Jun 1994
+2 PLAC Scottsdale
+3 MAP
+4 LATI 33.49305556
+4 LONG -111.9261111
+3 NOTE https://www.wikidata.org/wiki/Q49221
+1 FAMC @F471@
+0 @I487@ INDI
+1 NAME Sarah Molly /Rose/
+2 SURN Rose
+2 GIVN Sarah Molly
+1 SEX F
+1 BIRT
+2 DATE  24 Nov 1997
+1 FAMC @F471@
+0 @I474@ INDI
+1 NAME Beth Helaine /Lubin/
+2 SURN Lubin
+2 GIVN Beth Helaine
+1 SEX F
+1 BIRT
+2 DATE  04 May 1961
+2 PLAC Columbus
+3 MAP
+4 LATI 39.96222222
+4 LONG -83.00055556
+3 NOTE https://www.wikidata.org/wiki/Q16567
+1 FAMC @F411@
+1 FAMS @F474@
+0 @I47499999@ INDI
+1 NAME Bob Jerome /Blum/
+2 SURN Blum
+2 GIVN Bob Jerome
+1 SEX M
+1 FAMS @F474@
+0 @I475@ INDI
+1 NAME Morris Ted /Lubin/
+2 SURN Lubin
+2 GIVN Morris Ted
+1 SEX M
+1 BIRT
+2 DATE  24 May 1966
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F411@
+0 @I420@ INDI
+1 NAME Beryl Ann /Waldinger/
+2 SURN Waldinger
+2 GIVN Beryl Ann
+1 SEX F
+1 BIRT
+2 DATE  09 Sep 1930
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F404@
+1 FAMS @F420@
+0 @I42099999@ INDI
+1 NAME Robert S /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Robert S
+1 SEX M
+1 BIRT
+2 DATE  07 Jul 1927
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMS @F420@
+0 @I418@ INDI
+1 NAME Richard /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE  03 Aug 1952
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F420@
+1 FAMS @F418@
+0 @I41899999@ INDI
+1 NAME Amy /Hoversten/
+2 SURN Hoversten
+2 GIVN Amy
+1 SEX F
+1 FAMS @F418@
+0 @I458@ INDI
+1 NAME Ryan /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Ryan
+1 SEX M
+1 BIRT
+2 DATE  12 Aug 1983
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F418@
+0 @I459@ INDI
+1 NAME Danielle /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Danielle
+1 SEX F
+1 BIRT
+2 DATE  22 Jun 1987
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F418@
+0 @I485@ INDI
+1 NAME Anne /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE  14 Oct 1954
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F420@
+1 FAMS @F485@
+0 @I48599999@ INDI
+1 NAME Patrick James /Woodard/
+2 SURN Woodard
+2 GIVN Patrick James
+1 SEX M
+1 BIRT
+2 DATE  22 Mar 1954
+2 PLAC Perham
+3 MAP
+4 LATI 46.59444444
+4 LONG -95.5725
+3 NOTE https://www.wikidata.org/wiki/Q2228028
+1 FAMS @F485@
+0 @I460@ INDI
+1 NAME Kevin Patrick /Woodard/
+2 SURN Woodard
+2 GIVN Kevin Patrick
+1 SEX M
+1 BIRT
+2 DATE  25 Sep 1977
+2 PLAC Fargo
+3 MAP
+4 LATI 46.87722222
+4 LONG -96.78944444
+3 NOTE https://www.wikidata.org/wiki/Q34109
+1 FAMC @F485@
+0 @I461@ INDI
+1 NAME Erin Elizabeth /Woodard/
+2 SURN Woodard
+2 GIVN Erin Elizabeth
+1 SEX F
+1 BIRT
+2 DATE  26 Feb 1980
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F485@
+0 @I425@ INDI
+1 NAME Jeffrey /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Jeffrey
+1 SEX M
+1 BIRT
+2 DATE  12 Mar 1959
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F420@
+1 FAMS @F425@
+0 @I42599999@ INDI
+1 NAME Stephanie /Rudnick/
+2 SURN Rudnick
+2 GIVN Stephanie
+1 SEX F
+1 BIRT
+2 DATE  09 Jan 1958
+2 PLAC Topeka
+3 MAP
+4 LATI 39.04833
+4 LONG -95.67804
+3 NOTE https://www.wikidata.org/wiki/Q41057
+1 FAMS @F425@
+0 @I462@ INDI
+1 NAME Daniel /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Daniel
+1 SEX M
+1 BIRT
+2 DATE  29 May 1990
+2 PLAC Kansas City
+3 MAP
+4 LATI 39.05
+4 LONG -94.58333333
+3 NOTE https://www.wikidata.org/wiki/Q41819
+1 FAMC @F425@
+0 @I463@ INDI
+1 NAME William Randall /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN William Randall
+1 SEX M
+1 BIRT
+2 DATE  26 Jun 1965
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F420@
+1 FAMS @F463@
+0 @I46399999@ INDI
+1 NAME Gina Susan /Traub/
+2 SURN Traub
+2 GIVN Gina Susan
+1 SEX F
+1 BIRT
+2 DATE  01 May 1966
+2 PLAC Johannesburg
+3 MAP
+4 LATI -26.20436111
+4 LONG 28.04163889
+3 NOTE https://www.wikidata.org/wiki/Q34647
+1 FAMS @F463@
+0 @I464@ INDI
+1 NAME Bradley Evan /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Bradley Evan
+1 SEX M
+1 BIRT
+2 DATE  18 Nov 1995
+2 PLAC Austin
+3 MAP
+4 LATI 30.3
+4 LONG -97.73333333
+3 NOTE https://www.wikidata.org/wiki/Q16559
+1 FAMC @F463@
+0 @I486@ INDI
+1 NAME Amanda Michelle /Leiserowitz/
+2 SURN Leiserowitz
+2 GIVN Amanda Michelle
+1 SEX F
+1 BIRT
+2 DATE  04 Oct 1997
+2 PLAC Austin
+3 MAP
+4 LATI 30.3
+4 LONG -97.73333333
+3 NOTE https://www.wikidata.org/wiki/Q16559
+1 FAMC @F463@
+0 @I421@ INDI
+1 NAME Golda /Waldinger/
+2 SURN Waldinger
+2 GIVN Golda
+1 SEX F
+1 BIRT
+2 DATE  11 Jan 1937
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 DEAT
+2 DATE  27 Dec 1989
+2 PLAC North Miami Beach
+3 MAP
+4 LATI 25.93027778
+4 LONG -80.16972222
+3 NOTE https://www.wikidata.org/wiki/Q988909
+1 FAMC @F404@
+1 FAMS @F421@
+0 @I42199999@ INDI
+1 NAME Wayne /Steinberg/
+2 SURN Steinberg
+2 GIVN Wayne
+1 SEX M
+1 BIRT
+2 DATE  29 Jan 1937
+2 PLAC Paterson
+3 MAP
+4 LATI 40.91555556
+4 LONG -74.16305556
+3 NOTE https://www.wikidata.org/wiki/Q138391
+1 FAMS @F421@
+0 @I476@ INDI
+1 NAME Sara Mae /Steinberg/
+2 SURN Steinberg
+2 GIVN Sara Mae
+1 SEX F
+1 BIRT
+2 DATE  03 Sep 1959
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F421@
+1 FAMS @F476@
+0 @I47699999@ INDI
+1 NAME lsrael /Kaplan/
+2 SURN Kaplan
+2 GIVN lsrael
+1 SEX M
+1 BIRT
+2 DATE  03 Nov 1958
+2 PLAC Havana
+3 MAP
+4 LATI 23.13666667
+4 LONG -82.35888889
+3 NOTE https://www.wikidata.org/wiki/Q1563
+1 FAMS @F476@
+0 @I477@ INDI
+1 NAME Benjamin James /Kaplan/
+2 SURN Kaplan
+2 GIVN Benjamin James
+1 SEX M
+1 BIRT
+2 DATE  21 Jun 1983
+2 PLAC Hollywood
+3 MAP
+4 LATI 26.02138889
+4 LONG -80.175
+3 NOTE https://www.wikidata.org/wiki/Q234453
+1 FAMC @F476@
+0 @I478@ INDI
+1 NAME Rebecca Eve /Kaplan/
+2 SURN Kaplan
+2 GIVN Rebecca Eve
+1 SEX F
+1 BIRT
+2 DATE  23 Jul 1986
+2 PLAC Hollywood
+3 MAP
+4 LATI 26.02138889
+4 LONG -80.175
+3 NOTE https://www.wikidata.org/wiki/Q234453
+1 FAMC @F476@
+0 @I479@ INDI
+1 NAME Marc Steven /Steinberg/
+2 SURN Steinberg
+2 GIVN Marc Steven
+1 SEX M
+1 BIRT
+2 DATE  18 Jul 1962
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F421@
+1 FAMS @F479@
+0 @I47999999@ INDI
+1 NAME Lee Ann /Jones/
+2 SURN Jones
+2 GIVN Lee Ann
+1 SEX F
+1 BIRT
+2 DATE  26 Dec 1960
+2 PLAC Atlanta
+3 MAP
+4 LATI 33.75694444
+4 LONG -84.39027778
+3 NOTE https://www.wikidata.org/wiki/Q23556
+1 FAMS @F479@
+0 @I480@ INDI
+1 NAME Taylor Sean /Steinberg/
+2 SURN Steinberg
+2 GIVN Taylor Sean
+1 SEX M
+1 BIRT
+2 DATE  02 Apr 1996
+1 FAMC @F479@
+0 @I481@ INDI
+1 NAME David Alan /Steinberg/
+2 SURN Steinberg
+2 GIVN David Alan
+1 SEX M
+1 BIRT
+2 DATE  04 Sep 1964
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F421@
+1 FAMS @F481@
+0 @I48199999@ INDI
+1 NAME Linda Heather /Cohen/
+2 SURN Cohen
+2 GIVN Linda Heather
+1 SEX F
+1 BIRT
+2 DATE  10 Aug 1965
+2 PLAC Eastside
+3 MAP
+4 LATI 40.9181
+4 LONG -74.143
+3 NOTE https://www.wikidata.org/wiki/Q5330920
+1 FAMS @F481@
+0 @I482@ INDI
+1 NAME Gabrielle Ruth /Steinberg/
+2 SURN Steinberg
+2 GIVN Gabrielle Ruth
+1 SEX F
+1 BIRT
+2 DATE  21 Nov 1990
+2 PLAC Hollywood
+3 MAP
+4 LATI 26.02138889
+4 LONG -80.175
+3 NOTE https://www.wikidata.org/wiki/Q234453
+1 FAMC @F481@
+0 @I483@ INDI
+1 NAME Melanie Jill /Steinberg/
+2 SURN Steinberg
+2 GIVN Melanie Jill
+1 SEX F
+1 BIRT
+2 DATE  24 Aug 1993
+2 PLAC Pembroke Pines
+3 MAP
+4 LATI 26.0125
+4 LONG -80.31361111
+3 NOTE https://www.wikidata.org/wiki/Q370972
+1 FAMC @F481@
+0 @I484@ INDI
+1 NAME Jodi Alyce /Steinberg/
+2 SURN Steinberg
+2 GIVN Jodi Alyce
+1 SEX F
+1 BIRT
+2 DATE  13 Apr 1972
+2 PLAC Miami
+3 MAP
+4 LATI 25.78333333
+4 LONG -80.21666667
+3 NOTE https://www.wikidata.org/wiki/Q8652
+1 FAMC @F421@
+1 FAMS @F484@
+0 @I48499999@ INDI
+1 NAME Danicl Scott /Siff/
+2 SURN Siff
+2 GIVN Danicl Scott
+1 SEX M
+1 BIRT
+2 DATE  23 Feb 1972
+2 PLAC Hollywood
+3 MAP
+4 LATI 26.02138889
+4 LONG -80.175
+3 NOTE https://www.wikidata.org/wiki/Q234453
+1 FAMS @F484@
+0 @I405@ INDI
+1 NAME David /Waldinger/
+2 SURN Waldinger
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1910
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F401@
+1 FAMS @F405@
+0 @I40599999@ INDI
+1 NAME Miriam /Passman/
+2 SURN Passman
+2 GIVN Miriam
+1 SEX F
+1 BIRT
+2 DATE 1922
+2 PLAC Sioux City
+3 MAP
+4 LATI 42.49805556
+4 LONG -96.39555556
+3 NOTE https://www.wikidata.org/wiki/Q489255
+1 FAMS @F405@
+0 @I414@ INDI
+1 NAME Robert J /Waldinger/
+2 SURN Waldinger
+2 GIVN Robert J
+1 SEX M
+1 BIRT
+2 DATE  01 Mar 1951
+2 PLAC Omaha
+3 MAP
+4 LATI 41.26666667
+4 LONG -96.01666667
+3 NOTE https://www.wikidata.org/wiki/Q43199
+1 FAMC @F405@
+1 FAMS @F414@
+0 @I41499999@ INDI
+1 NAME Jennifer A /Stone/
+2 SURN Stone
+2 GIVN Jennifer A
+1 SEX F
+1 BIRT
+2 DATE  27 Aug 1956
+2 PLAC Urbana
+3 MAP
+4 LATI 40.10972222
+4 LONG -88.20416667
+3 NOTE https://www.wikidata.org/wiki/Q462184
+1 FAMS @F414@
+0 @I433@ INDI
+1 NAME Daniel C /Waldinger/
+2 SURN Waldinger
+2 GIVN Daniel C
+1 SEX M
+1 BIRT
+2 DATE  28 Apr 1988
+1 FAMC @F414@
+0 @I434@ INDI
+1 NAME David S /Waldinger/
+2 SURN Waldinger
+2 GIVN David S
+1 SEX M
+1 BIRT
+2 DATE  15 Jun 1991
+1 FAMC @F414@
+0 @I415@ INDI
+1 NAME Mark S /Waldinger/
+2 SURN Waldinger
+2 GIVN Mark S
+1 SEX M
+1 BIRT
+2 DATE  13 Oct 1947
+1 FAMC @F405@
+0 @I406@ INDI
+1 NAME Etta Ethel /Waldinger/
+2 SURN Waldinger
+2 GIVN Etta Ethel
+1 SEX F
+1 BIRT
+2 DATE  10 Jun 1912
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 DEAT
+2 DATE  20 Sep 1993
+2 PLAC Portland
+3 MAP
+4 LATI 45.51666667
+4 LONG -122.6666667
+3 NOTE https://www.wikidata.org/wiki/Q6106
+1 FAMC @F401@
+1 FAMS @F406@
+0 @I40699999@ INDI
+1 NAME lrving /Borg/
+2 SURN Borg
+2 GIVN lrving
+1 SEX M
+1 FAMS @F406@
+0 @I488@ INDI
+1 NAME Gloria Lynn /Borg/
+2 SURN Borg
+2 GIVN Gloria Lynn
+1 SEX F
+1 BIRT
+2 DATE  19 Mar 1947
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F406@
+1 FAMS @F488@
+0 @I48899999@ INDI
+1 NAME Michael Z /Olds/
+2 SURN Olds
+2 GIVN Michael Z
+1 SEX M
+1 FAMS @F488@
+0 @I489@ INDI
+1 NAME Benjarnin Zvi /Olds/
+2 SURN Olds
+2 GIVN Benjarnin Zvi
+1 SEX M
+1 BIRT
+2 DATE  05 Nov 1976
+1 FAMC @F488@
+0 @I490@ INDI
+1 NAME Joshua Aaron /Olds/
+2 SURN Olds
+2 GIVN Joshua Aaron
+1 SEX M
+1 BIRT
+2 DATE  11 Jul 1974
+1 FAMC @F488@
+0 @I491@ INDI
+1 NAME Michael Eliott /Borg/
+2 SURN Borg
+2 GIVN Michael Eliott
+1 SEX M
+1 BIRT
+2 DATE  21 Jul 1949
+1 FAMC @F406@
+0 @I492@ INDI
+1 NAME Richard Jeffrey /Borg/
+2 SURN Borg
+2 GIVN Richard Jeffrey
+1 SEX M
+1 BIRT
+2 DATE  07 Feb 1951
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F406@
+1 FAMS @F492@
+0 @I49299999@ INDI
+1 NAME April /Morgan/
+2 SURN Morgan
+2 GIVN April
+1 SEX F
+1 FAMS @F492@
+0 @I493@ INDI
+1 NAME Ruth Channah /Borg/
+2 SURN Borg
+2 GIVN Ruth Channah
+1 SEX F
+1 BIRT
+2 DATE  14 Nov 1984
+1 FAMC @F492@
+0 @I498@ INDI
+1 NAME Jessica Serena "Rena" /Borg/
+2 SURN Borg
+2 GIVN Jessica Serena "Rena"
+1 SEX F
+1 BIRT
+2 DATE  11 Feb 1987
+1 FAMC @F492@
+0 @I494@ INDI
+1 NAME Rochelle Joy /Borg/
+2 SURN Borg
+2 GIVN Rochelle Joy
+1 SEX F
+1 BIRT
+2 DATE  27 Nov 1953
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F406@
+1 FAMS @F494@
+0 @I495@ INDI
+1 NAME Max /Borg/
+2 SURN Borg
+2 GIVN Max
+1 SEX M
+1 BIRT
+2 DATE  06 Dec 1989
+2 PLAC Boston
+3 MAP
+4 LATI 42.35833333
+4 LONG -71.0625
+3 NOTE https://www.wikidata.org/wiki/Q100
+1 FAMC @F494@
+0 @I497@ INDI
+1 NAME Shelly /Borg/
+2 SURN Borg
+2 GIVN Shelly
+1 SEX F
+1 FAMC @F406@
+0 @I408@ INDI
+1 NAME Jack Jacob /Waldinger/
+2 SURN Waldinger
+2 GIVN Jack Jacob
+1 SEX M
+1 BIRT
+2 DATE  02 Oct 1900
+2 PLAC Bolekhiv
+3 MAP
+4 LATI 49.06694444
+4 LONG 23.85138889
+3 NOTE https://www.wikidata.org/wiki/Q146595
+1 DEAT
+2 DATE  03 Feb 1971
+1 BURI
+2 PLAC Shalom Memorial Park
+3 MAP
+4 LATI 42.1292736
+4 LONG -87.9997571
+3 NOTE https://www.wikidata.org/wiki/Q59786356
+1 FAMC @F401@
+1 FAMS @F408@
+0 @I40899999@ INDI
+1 NAME Bertha /Shapero/
+2 SURN Shapero
+2 GIVN Bertha
+1 SEX F
+1 BIRT
+2 DATE  01 Nov 1909
+2 PLAC Waterloo
+3 MAP
+4 LATI 42.492436
+4 LONG -92.346161
+3 NOTE https://www.wikidata.org/wiki/Q496381
+1 DEAT
+2 DATE  22 Oct 1986
+2 PLAC Palatine
+3 MAP
+4 LATI 42.1169
+4 LONG -88.0406
+3 NOTE https://www.wikidata.org/wiki/Q998726
+1 FAMS @F408@
+0 @I416@ INDI
+1 NAME Harlan A /Waldinger/
+2 SURN Waldinger
+2 GIVN Harlan A
+1 SEX M
+1 BIRT
+2 DATE  05 Nov 1936
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F408@
+1 FAMS @F416@
+0 @I41699999@ INDI
+1 NAME Debbie Lee /Hartman/
+2 SURN Hartman
+2 GIVN Debbie Lee
+1 SEX F
+1 FAMS @F416@
+0 @I456@ INDI
+1 NAME Scott Baron /Waldinger/
+2 SURN Waldinger
+2 GIVN Scott Baron
+1 SEX M
+1 BIRT
+2 DATE  11 Dec 1966
+2 PLAC Evanston
+3 MAP
+4 LATI 42.0411414
+4 LONG -87.6900587
+3 NOTE https://www.wikidata.org/wiki/Q462799
+1 FAMC @F416@
+0 @I457@ INDI
+1 NAME Beth /Waldinger/
+2 SURN Waldinger
+2 GIVN Beth
+1 SEX F
+1 BIRT
+2 DATE  07 Feb 1969
+2 PLAC Evanston
+3 MAP
+4 LATI 42.0411414
+4 LONG -87.6900587
+3 NOTE https://www.wikidata.org/wiki/Q462799
+1 FAMC @F416@
+0 @I417@ INDI
+1 NAME Gail /Waldinger/
+2 SURN Waldinger
+2 GIVN Gail
+1 SEX F
+1 BIRT
+2 DATE  07 Jan 1940
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F408@
+1 FAMS @F417@
+0 @I41799999@ INDI
+1 NAME Herbert Joseph /Berlinsky/
+2 SURN Berlinsky
+2 GIVN Herbert Joseph
+1 SEX M
+1 FAMS @F417@
+0 @I496@ INDI
+1 NAME Jeff /Berlinsky/
+2 SURN Berlinsky
+2 GIVN Jeff
+1 SEX M
+1 BIRT
+2 DATE  08 Dec 1974
+1 FAMC @F417@
+0 @I4026@ INDI
+1 NAME Avraham /Waldinger/
+2 SURN Waldinger
+2 GIVN Avraham
+1 SEX M
+1 BIRT
+2 DATE 1864
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE 1934
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 FAMC @F400@
+1 FAMS @F4026@
+0 @I402699999@ INDI
+1 NAME Miriam /Wagner/
+2 SURN Wagner
+2 GIVN Miriam
+1 SEX F
+1 FAMS @F4026@
+0 @I4027@ INDI
+1 NAME Moses /Waldinger/
+2 SURN Waldinger
+2 GIVN Moses
+1 SEX M
+1 BIRT
+2 DATE  Dec 1889
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE 1943
+2 PLAC Belzec extermination camp
+3 MAP
+4 LATI 50.371667
+4 LONG 23.4575
+3 NOTE https://www.wikidata.org/wiki/Q160143
+1 FAMC @F4026@
+1 FAMS @F4027@
+0 @I402799999@ INDI
+1 NAME Berta /Ostrower/
+2 SURN Ostrower
+2 GIVN Berta
+1 SEX F
+1 BIRT
+2 PLAC Szeged
+3 MAP
+4 LATI 46.25
+4 LONG 20.16666667
+3 NOTE https://www.wikidata.org/wiki/Q81581
+1 DEAT
+2 DATE 1943
+2 PLAC Belzec extermination camp
+3 MAP
+4 LATI 50.371667
+4 LONG 23.4575
+3 NOTE https://www.wikidata.org/wiki/Q160143
+1 FAMS @F4027@
+0 @I4030@ INDI
+1 NAME Nahum /Waldinger (Yaar)/
+2 SURN Waldinger (Yaar)
+2 GIVN Nahum
+1 SEX M
+1 BIRT
+2 DATE  01 Jan 1920
+2 PLAC Lviv
+3 MAP
+4 LATI 49.84188889
+4 LONG 24.0315
+3 NOTE https://www.wikidata.org/wiki/Q36036
+1 FAMC @F4027@
+1 FAMS @F4030@
+0 @I403099999@ INDI
+1 NAME Batsheva /Kaminecki/
+2 SURN Kaminecki
+2 GIVN Batsheva
+1 SEX F
+1 BIRT
+2 DATE  01 Jan 1930
+2 PLAC Kostopil
+3 MAP
+4 LATI 50.88333333
+4 LONG 26.44305556
+3 NOTE https://www.wikidata.org/wiki/Q148985
+1 FAMS @F4030@
+0 @I4031@ INDI
+1 NAME Moshe /Yaar/
+2 SURN Yaar
+2 GIVN Moshe
+1 SEX M
+1 BIRT
+2 DATE 28-Jul-47
+2 PLAC Cyprus
+3 MAP
+4 LATI 35.16666667
+4 LONG 33.35
+3 NOTE https://www.wikidata.org/wiki/Q644636
+1 FAMC @F4030@
+1 FAMS @F4031@
+0 @I403199999@ INDI
+1 NAME Eneida /De-Azevedo/
+2 SURN De-Azevedo
+2 GIVN Eneida
+1 SEX F
+1 BIRT
+2 DATE  30 Dec 1963
+2 PLAC Rio de Janeiro
+3 MAP
+4 LATI -22.90833333
+4 LONG -43.19638889
+3 NOTE https://www.wikidata.org/wiki/Q8678
+1 FAMS @F4031@
+0 @I4032@ INDI
+1 NAME Adi /Yaar/
+2 SURN Yaar
+2 GIVN Adi
+1 SEX M
+1 BIRT
+2 DATE 05-Jan-71
+1 FAMC @F4031@
+0 @I4033@ INDI
+1 NAME Yifat /Yaar/
+2 SURN Yaar
+2 GIVN Yifat
+1 SEX F
+1 BIRT
+2 DATE 23-Oct-76
+1 FAMC @F4031@
+0 @I4034@ INDI
+1 NAME Einat /Yaar/
+2 SURN Yaar
+2 GIVN Einat
+1 SEX F
+1 BIRT
+2 DATE 10-Aug-79
+1 FAMC @F4031@
+0 @I4035@ INDI
+1 NAME Daniel /Yaar/
+2 SURN Yaar
+2 GIVN Daniel
+1 SEX M
+1 BIRT
+2 DATE 26-Jan-92
+1 FAMC @F4031@
+0 @I4036@ INDI
+1 NAME Yhonatan /Yaar/
+2 SURN Yaar
+2 GIVN Yhonatan
+1 SEX M
+1 BIRT
+2 DATE 25-Mar-95
+1 FAMC @F4031@
+0 @I4037@ INDI
+1 NAME Bela /Yaar/
+2 SURN Yaar
+2 GIVN Bela
+1 SEX F
+1 BIRT
+2 DATE 15-Sep-50
+2 PLAC Netanya
+3 MAP
+4 LATI 32.33333333
+4 LONG 34.85
+3 NOTE https://www.wikidata.org/wiki/Q192225
+1 DEAT
+2 DATE 1995
+2 PLAC Netanya
+3 MAP
+4 LATI 32.33333333
+4 LONG 34.85
+3 NOTE https://www.wikidata.org/wiki/Q192225
+1 FAMC @F4030@
+1 FAMS @F4037@
+0 @I403799999@ INDI
+1 NAME Tsur /Ginat/
+2 SURN Ginat
+2 GIVN Tsur
+1 SEX M
+1 BIRT
+2 DATE  08 Jan 1950
+2 PLAC Haifa
+3 MAP
+4 LATI 32.8
+4 LONG 34.98333333
+3 NOTE https://www.wikidata.org/wiki/Q41621
+1 FAMS @F4037@
+0 @I4038@ INDI
+1 NAME Gil /Ginat/
+2 SURN Ginat
+2 GIVN Gil
+1 SEX M
+1 BIRT
+2 DATE  27 Jun 1973
+1 FAMC @F4037@
+0 @I4039@ INDI
+1 NAME Ron /Ginat/
+2 SURN Ginat
+2 GIVN Ron
+1 SEX M
+1 BIRT
+2 DATE  26 Jul 1978
+1 FAMC @F4037@
+0 @I4040@ INDI
+1 NAME Yael /Ginat/
+2 SURN Ginat
+2 GIVN Yael
+1 SEX F
+1 BIRT
+2 DATE  19 Oct 1981
+1 FAMC @F4037@
+0 @I4041@ INDI
+1 NAME Ilan /Yaar/
+2 SURN Yaar
+2 GIVN Ilan
+1 SEX M
+1 BIRT
+2 DATE 07-Jun-61
+2 PLAC Netanya
+3 MAP
+4 LATI 32.33333333
+4 LONG 34.85
+3 NOTE https://www.wikidata.org/wiki/Q192225
+1 FAMC @F4030@
+1 FAMS @F4041@
+0 @I404199999@ INDI
+1 NAME Galit /Avital/
+2 SURN Avital
+2 GIVN Galit
+1 SEX F
+1 BIRT
+2 DATE  26 Feb 1967
+2 PLAC Beersheba
+3 MAP
+4 LATI 31.25888889
+4 LONG 34.79777778
+3 NOTE https://www.wikidata.org/wiki/Q41843
+1 FAMS @F4041@
+0 @I4042@ INDI
+1 NAME Edan /Yaar/
+2 SURN Yaar
+2 GIVN Edan
+1 SEX M
+1 BIRT
+2 DATE 17-May-93
+2 PLAC Beersheba
+3 MAP
+4 LATI 31.25888889
+4 LONG 34.79777778
+3 NOTE https://www.wikidata.org/wiki/Q41843
+1 FAMC @F4041@
+0 @I4014@ INDI
+1 NAME May /Yaar/
+2 SURN Yaar
+2 GIVN May
+1 SEX F
+1 BIRT
+2 DATE 16-May-99
+2 PLAC Beersheba
+3 MAP
+4 LATI 31.25888889
+4 LONG 34.79777778
+3 NOTE https://www.wikidata.org/wiki/Q41843
+1 FAMC @F4041@
+0 @I4015@ INDI
+1 NAME Gal /Yaar/
+2 SURN Yaar
+2 GIVN Gal
+1 SEX F
+1 BIRT
+2 DATE 19-Jun-97
+2 PLAC Beersheba
+3 MAP
+4 LATI 31.25888889
+4 LONG 34.79777778
+3 NOTE https://www.wikidata.org/wiki/Q41843
+1 FAMC @F4041@
+0 @I575@ INDI
+1 NAME Lester /Waldinger/
+2 SURN Waldinger
+2 GIVN Lester
+1 SEX M
+1 DEAT
+2 PLAC London
+3 MAP
+4 LATI 51.50722222
+4 LONG -0.1275
+3 NOTE https://www.wikidata.org/wiki/Q84
+1 FAMC @F4026@
+0 @I4029@ INDI
+1 NAME Joseph /Waldinger/
+2 SURN Waldinger
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 PLAC Vienna
+3 MAP
+4 LATI 48.20833
+4 LONG 16.373064
+3 NOTE https://www.wikidata.org/wiki/Q1741
+1 DEAT
+2 DATE  07 Dec 1954
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F4026@
+1 FAMS @F4029@
+0 @I402999999@ INDI
+1 NAME Ester /Pzomeranz/
+2 SURN Pzomeranz
+2 GIVN Ester
+1 SEX F
+1 BIRT
+2 PLAC Stryi
+3 MAP
+4 LATI 49.25
+4 LONG 23.85
+3 NOTE https://www.wikidata.org/wiki/Q158923
+1 DEAT
+2 DATE 1995
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMS @F4029@
+0 @I4043@ INDI
+1 NAME Lester Carl /Waldinger/
+2 SURN Waldinger
+2 GIVN Lester Carl
+1 SEX M
+1 BIRT
+2 DATE  14 Jun 1924
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 FAMC @F4029@
+1 FAMS @F4043@
+0 @I404399999@ INDI
+1 NAME Shirley /Rose/
+2 SURN Rose
+2 GIVN Shirley
+1 SEX F
+1 FAMS @F4043@
+0 @I4044@ INDI
+1 NAME Dennis /Waldinger/
+2 SURN Waldinger
+2 GIVN Dennis
+1 SEX M
+1 BIRT
+2 DATE  19 Sep 1945
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F4043@
+1 FAMS @F4044@
+0 @I404499999@ INDI
+1 NAME Debby /Davis/
+2 SURN Davis
+2 GIVN Debby
+1 SEX F
+1 FAMS @F4044@
+0 @I4046@ INDI
+1 NAME Michael /Waldinger/
+2 SURN Waldinger
+2 GIVN Michael
+1 SEX M
+1 BIRT
+2 DATE  04 May 1976
+1 FAMC @F4044@
+0 @I4047@ INDI
+1 NAME Kevin /Waldinger/
+2 SURN Waldinger
+2 GIVN Kevin
+1 SEX M
+1 BIRT
+2 DATE  14 Jun 1979
+1 FAMC @F4044@
+0 @I4045@ INDI
+1 NAME Rennie /Waldinger/
+2 SURN Waldinger
+2 GIVN Rennie
+1 SEX F
+1 BIRT
+2 DATE  Feb 1951
+1 FAMC @F4043@
+1 FAMS @F4045@
+0 @I404599999@ INDI
+1 NAME Tino /Santhon/
+2 SURN Santhon
+2 GIVN Tino
+1 SEX M
+1 FAMS @F4045@
+0 @I4048@ INDI
+1 NAME Dustin Glodney /santhon/
+2 SURN santhon
+2 GIVN Dustin Glodney
+1 SEX M
+1 BIRT
+2 DATE  20 Sep 1972
+1 FAMC @F4045@
+0 @I4049@ INDI
+1 NAME Ryan /Santhon/
+2 SURN Santhon
+2 GIVN Ryan
+1 SEX M
+1 BIRT
+2 DATE  31 Oct 1991
+1 FAMC @F4045@
+0 @I4050@ INDI
+1 NAME Milton Noah /Waldinger/
+2 SURN Waldinger
+2 GIVN Milton Noah
+1 SEX M
+1 BIRT
+2 DATE  30 Mar 1926
+2 PLAC Des Moines
+3 MAP
+4 LATI 41.59083333
+4 LONG -93.62083333
+3 NOTE https://www.wikidata.org/wiki/Q39709
+1 DEAT
+2 DATE  04 May 1990
+2 PLAC Petaluma
+3 MAP
+4 LATI 38.24583333
+4 LONG -122.6313889
+3 NOTE https://www.wikidata.org/wiki/Q720087
+1 FAMC @F4029@
+1 FAMS @F4050@
+0 @I405099999@ INDI
+1 NAME Lois Barbara /Koch/
+2 SURN Koch
+2 GIVN Lois Barbara
+1 SEX F
+1 BIRT
+2 DATE  20 Feb 1929
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 DEAT
+2 DATE 22-Feb-08
+2 PLAC Petaluma
+3 MAP
+4 LATI 38.24583333
+4 LONG -122.6313889
+3 NOTE https://www.wikidata.org/wiki/Q720087
+1 FAMS @F4050@
+0 @I4051@ INDI
+1 NAME Richard Stuart /Waldinger/
+2 SURN Waldinger
+2 GIVN Richard Stuart
+1 SEX M
+1 BIRT
+2 DATE  12 Dec 1949
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F4050@
+1 FAMS @F4051@
+0 @I405199999@ INDI
+1 NAME keri /Espe/
+2 SURN Espe
+2 GIVN keri
+1 SEX F
+1 FAMS @F4051@
+0 @I4052@ INDI
+1 NAME Julia /Waldinger/
+2 SURN Waldinger
+2 GIVN Julia
+1 SEX F
+1 BIRT
+2 DATE  02 Nov 1983
+1 FAMC @F4051@
+0 @I4053@ INDI
+1 NAME Lauren /Waldinger/
+2 SURN Waldinger
+2 GIVN Lauren
+1 SEX F
+1 BIRT
+2 DATE  24 Apr 1987
+2 PLAC Portland
+3 MAP
+4 LATI 45.51666667
+4 LONG -122.6666667
+3 NOTE https://www.wikidata.org/wiki/Q6106
+1 FAMC @F4051@
+0 @I4054@ INDI
+1 NAME James David /Waldinger/
+2 SURN Waldinger
+2 GIVN James David
+1 SEX M
+1 BIRT
+2 DATE  17 Apr 1952
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F4050@
+1 FAMS @F4054@
+0 @I405499999@ INDI
+1 NAME Michele /Baker/
+2 SURN Baker
+2 GIVN Michele
+1 SEX F
+1 FAMS @F4054@
+0 @I4055@ INDI
+1 NAME Jacob /Waldinger/
+2 SURN Waldinger
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE  29 Apr 1978
+2 PLAC Santa Rosa
+3 MAP
+4 LATI 38.44861111
+4 LONG -122.7047222
+3 NOTE https://www.wikidata.org/wiki/Q212991
+1 FAMC @F4054@
+0 @I4056@ INDI
+1 NAME Katie /Waldinger/
+2 SURN Waldinger
+2 GIVN Katie
+1 SEX F
+1 BIRT
+2 DATE  11 Oct 1980
+2 PLAC Petaluma
+3 MAP
+4 LATI 38.24583333
+4 LONG -122.6313889
+3 NOTE https://www.wikidata.org/wiki/Q720087
+1 FAMC @F4054@
+0 @I4057@ INDI
+1 NAME Lori Jo /Waldinger/
+2 SURN Waldinger
+2 GIVN Lori Jo
+1 SEX F
+1 BIRT
+2 DATE  29 May 1962
+2 PLAC Los Angeles
+3 MAP
+4 LATI 34.05223
+4 LONG -118.24368
+3 NOTE https://www.wikidata.org/wiki/Q65
+1 FAMC @F4050@
+0 @I4020@ INDI
+1 NAME Tillie /Waldinger/
+2 SURN Waldinger
+2 GIVN Tillie
+1 SEX F
+1 FAMC @F400@
+1 FAMS @F4020@
+0 @I402099999@ INDI
+1 NAME Elias /Teitel/
+2 SURN Teitel
+2 GIVN Elias
+1 SEX M
+1 FAMS @F4020@
+0 @I600@ INDI
+1 NAME Zzzz /Waldinger/
+2 SURN Waldinger
+2 GIVN Zzzz
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F600@
+0 @I61099999@ INDI
+1 NAME Israel /Brunengraber/
+2 SURN Brunengraber
+2 GIVN Israel
+1 SEX M
+1 FAMS @F610B@
+0 @I610@ INDI
+1 NAME Etie Feigel /Waldinger/
+2 SURN Waldinger
+2 GIVN Etie Feigel
+1 SEX F
+1 BIRT
+2 DATE 1850
+1 FAMC @F610B@
+1 FAMS @F610B@
+0 @I611@ INDI
+1 NAME Moshe D /Waldinger/
+2 SURN Waldinger
+2 GIVN Moshe D
+1 SEX M
+1 BIRT
+2 DATE 1877
+1 FAMC @F610B@
+1 FAMS @F611@
+0 @I617@ INDI
+1 NAME Leo /Waldinger/
+2 SURN Waldinger
+2 GIVN Leo
+1 SEX M
+1 FAMC @F611@
+1 FAMS @F617@
+0 @I61799999@ INDI
+1 NAME Paula /Gelber/
+2 SURN Gelber
+2 GIVN Paula
+1 SEX F
+1 FAMS @F617@
+0 @I624@ INDI
+1 NAME Marcel /Waldinger/
+2 SURN Waldinger
+2 GIVN Marcel
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMC @F617@
+0 @I625@ INDI
+1 NAME Ruth /Waldinger/
+2 SURN Waldinger
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMC @F617@
+0 @I618@ INDI
+1 NAME Benno /Waldinger/
+2 SURN Waldinger
+2 GIVN Benno
+1 SEX M
+1 FAMC @F611@
+0 @I619@ INDI
+1 NAME Selli /Waldinger/
+2 SURN Waldinger
+2 GIVN Selli
+1 SEX F
+1 FAMC @F611@
+0 @I620@ INDI
+1 NAME Mira /Waldinger/
+2 SURN Waldinger
+2 GIVN Mira
+1 SEX F
+1 FAMC @F611@
+0 @I621@ INDI
+1 NAME Janina /Waldinger/
+2 SURN Waldinger
+2 GIVN Janina
+1 SEX F
+1 FAMC @F611@
+0 @I622@ INDI
+1 NAME Bertel /Waldinger/
+2 SURN Waldinger
+2 GIVN Bertel
+1 SEX M
+1 FAMC @F611@
+0 @I612@ INDI
+1 NAME Chaje /Waldinger/
+2 SURN Waldinger
+2 GIVN Chaje
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 FAMC @F610B@
+1 FAMS @F612@
+0 @I623@ INDI
+1 NAME Eliezer /Waldinger/
+2 SURN Waldinger
+2 GIVN Eliezer
+1 SEX M
+1 FAMC @F612@
+0 @I613@ INDI
+1 NAME Joseph /Waldinger/
+2 SURN Waldinger
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 1881
+1 FAMC @F610B@
+0 @I614@ INDI
+1 NAME Sara /Waldinger/
+2 SURN Waldinger
+2 GIVN Sara
+1 SEX F
+1 BIRT
+2 DATE 1884
+1 FAMC @F610B@
+0 @I615@ INDI
+1 NAME Jacob /Waldinger/
+2 SURN Waldinger
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 FAMC @F610B@
+0 @I616@ INDI
+1 NAME Eliezer /Waldinger/
+2 SURN Waldinger
+2 GIVN Eliezer
+1 SEX M
+1 BIRT
+2 DATE 1890
+1 FAMC @F610B@
+0 @I700@ INDI
+1 NAME XXX /Waldinger/
+2 SURN Waldinger
+2 GIVN XXX
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F700@
+0 @I701@ INDI
+1 NAME VVV /Waldinger/
+2 SURN Waldinger
+2 GIVN VVV
+1 SEX M
+1 FAMC @F700@
+1 FAMS @F701@
+0 @I702@ INDI
+1 NAME Solomon /Waldinger/
+2 SURN Waldinger
+2 GIVN Solomon
+1 SEX M
+1 BIRT
+2 DATE 1872
+1 DEAT
+2 DATE 1904
+1 FAMC @F701@
+1 FAMS @F702@
+0 @I70299999@ INDI
+1 NAME Sarah /Krieg/
+2 SURN Krieg
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 1870
+2 PLAC Ivano-Frankivsk
+3 MAP
+4 LATI 48.92277778
+4 LONG 24.71055556
+3 NOTE https://www.wikidata.org/wiki/Q156726
+1 DEAT
+2 DATE 1917
+1 FAMS @F702@
+0 @I703@ INDI
+1 NAME David Krieg /Waldinger/
+2 SURN Waldinger
+2 GIVN David Krieg
+1 SEX M
+1 BIRT
+2 DATE  01 Jun 1901
+2 PLAC Austria-Hungary
+3 MAP
+4 LATI 48.2
+4 LONG 16.35
+3 NOTE https://www.wikidata.org/wiki/Q28513
+1 DEAT
+2 DATE  04 Oct 1970
+1 BURI
+2 PLAC Beth David Cemetery
+3 MAP
+4 LATI 40.6992
+4 LONG -73.7062
+3 NOTE https://www.wikidata.org/wiki/Q43079593
+1 FAMC @F702@
+1 FAMS @F703@
+0 @I70399999@ INDI
+1 NAME Helen /Storch/
+2 SURN Storch
+2 GIVN Helen
+1 SEX F
+1 BIRT
+2 DATE  15 Oct 1910
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 DEAT
+2 DATE  Jul 1998
+1 FAMS @F703@
+0 @I704@ INDI
+1 NAME Susan /Waldinger/
+2 SURN Waldinger
+2 GIVN Susan
+1 SEX F
+1 BIRT
+2 DATE  12 Jan 1943
+2 PLAC Brooklyn
+3 MAP
+4 LATI 40.69277778
+4 LONG -73.99027778
+3 NOTE https://www.wikidata.org/wiki/Q18419
+1 FAMC @F703@
+1 FAMS @F704@
+0 @I70499999@ INDI
+1 NAME Herbcrt /Mendelson/
+2 SURN Mendelson
+2 GIVN Herbcrt
+1 SEX M
+1 FAMS @F704@
+0 @I706@ INDI
+1 NAME Sondra /Mendelson/
+2 SURN Mendelson
+2 GIVN Sondra
+1 SEX F
+1 BIRT
+2 DATE  19 Jan 1966
+1 FAMC @F704@
+0 @I707@ INDI
+1 NAME Eric /Mendelson/
+2 SURN Mendelson
+2 GIVN Eric
+1 SEX M
+1 BIRT
+2 DATE  06 Aug 1967
+1 FAMC @F704@
+0 @I705@ INDI
+1 NAME Robert Jay /Waldinger/
+2 SURN Waldinger
+2 GIVN Robert Jay
+1 SEX M
+1 BIRT
+2 DATE  20 Mar 1945
+2 PLAC Poughkeepsie
+3 MAP
+4 LATI 41.70527778
+4 LONG -73.93055556
+3 NOTE https://www.wikidata.org/wiki/Q178093
+1 FAMC @F703@
+1 FAMS @F705@
+0 @I70599999@ INDI
+1 NAME Judith B /Booxbaum/
+2 SURN Booxbaum
+2 GIVN Judith B
+1 SEX F
+1 BIRT
+2 DATE  06 Mar 1945
+2 PLAC New York City
+3 MAP
+4 LATI 40.67
+4 LONG -73.94
+3 NOTE https://www.wikidata.org/wiki/Q60
+1 FAMS @F705@
+0 @I708@ INDI
+1 NAME Melissa J /Waldinger/
+2 SURN Waldinger
+2 GIVN Melissa J
+1 SEX F
+1 BIRT
+2 DATE  21 Jan 1973
+2 PLAC Manhasset
+3 MAP
+4 LATI 40.79277778
+4 LONG -73.69333333
+3 NOTE https://www.wikidata.org/wiki/Q286148
+1 FAMC @F705@
+0 @I709@ INDI
+1 NAME Debra /Waldinger/
+2 SURN Waldinger
+2 GIVN Debra
+1 SEX F
+1 BIRT
+2 DATE  31 Jul 1976
+2 PLAC Mineola
+3 MAP
+4 LATI 40.7472
+4 LONG -73.6381
+3 NOTE https://www.wikidata.org/wiki/Q2349502
+1 FAMC @F705@
+0 @I710@ INDI
+1 NAME David M /Waldinger/
+2 SURN Waldinger
+2 GIVN David M
+1 SEX M
+1 BIRT
+2 DATE  17 Oct 1979
+2 PLAC Mineola
+3 MAP
+4 LATI 40.7472
+4 LONG -73.6381
+3 NOTE https://www.wikidata.org/wiki/Q2349502
+1 FAMC @F705@
+0 @I711@ INDI
+1 NAME Hedda Yadwiga /Krieg/
+2 SURN Krieg
+2 GIVN Hedda Yadwiga
+1 SEX F
+1 BIRT
+2 DATE 20-Nov
+1 DEAT
+2 DATE  28 Apr 1972
+1 FAMC @F702@
+1 FAMS @F711@
+0 @I71199999@ INDI
+1 NAME Jacob /Faust/
+2 SURN Faust
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE  14 Jun 1902
+1 DEAT
+2 DATE  14 May 1983
+1 FAMS @F711@
+0 @I712@ INDI
+1 NAME Elenore /Faust/
+2 SURN Faust
+2 GIVN Elenore
+1 SEX F
+1 FAMC @F711@
+1 FAMS @F712@
+0 @I71299999@ INDI
+1 NAME John Corlos /Levy/
+2 SURN Levy
+2 GIVN John Corlos
+1 SEX M
+1 BIRT
+2 DATE  26 Jan 1937
+1 FAMS @F712@
+0 @I713@ INDI
+1 NAME Stanley /Faust/
+2 SURN Faust
+2 GIVN Stanley
+1 SEX M
+1 BIRT
+2 DATE  16 Jun 1932
+1 FAMC @F711@
+1 FAMS @F713@
+0 @I71399999@ INDI
+1 NAME Mona /Hazan/
+2 SURN Hazan
+2 GIVN Mona
+1 SEX F
+1 BIRT
+2 DATE  01 Mar 1936
+1 DEAT
+2 DATE  01 Feb 1972
+1 FAMS @F713@
+0 @I714@ INDI
+1 NAME David /Faust/
+2 SURN Faust
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE  15 Mar 1959
+1 DEAT
+2 DATE  05 May 1985
+1 FAMC @F713@
+0 @I715@ INDI
+1 NAME Robert Todd /Faust/
+2 SURN Faust
+2 GIVN Robert Todd
+1 SEX M
+1 BIRT
+2 DATE  24 Mar 1966
+1 FAMC @F713@
+1 FAMS @F715@
+0 @I71599999@ INDI
+1 NAME Deborah /Green/
+2 SURN Green
+2 GIVN Deborah
+1 SEX F
+1 FAMS @F715@
+0 @I716@ INDI
+1 NAME Lori Michele /Faust/
+2 SURN Faust
+2 GIVN Lori Michele
+1 SEX F
+1 BIRT
+2 DATE  26 Oct 1960
+1 FAMC @F713@
+1 FAMS @F716@
+0 @I71699999@ INDI
+1 NAME Timothy /Williamson/
+2 SURN Williamson
+2 GIVN Timothy
+1 SEX M
+1 FAMS @F716@
+0 @I725@ INDI
+1 NAME Ryan David /Williamson/
+2 SURN Williamson
+2 GIVN Ryan David
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 FAMC @F716@
+0 @I717@ INDI
+1 NAME Helen /Waldinger/
+2 SURN Waldinger
+2 GIVN Helen
+1 SEX F
+1 FAMC @F702@
+1 FAMS @F717@
+0 @I71799999@ INDI
+1 NAME Joseph /Zucker/
+2 SURN Zucker
+2 GIVN Joseph
+1 SEX M
+1 DEAT
+2 PLAC The Holocaust
+1 FAMS @F717@
+0 @I719@ INDI
+1 NAME Solomon /Zucker/
+2 SURN Zucker
+2 GIVN Solomon
+1 SEX M
+1 FAMC @F717@
+0 @I720@ INDI
+1 NAME Jacob /Zucker/
+2 SURN Zucker
+2 GIVN Jacob
+1 SEX M
+1 FAMC @F717@
+0 @I721@ INDI
+1 NAME Rela /Zucker/
+2 SURN Zucker
+2 GIVN Rela
+1 SEX F
+1 FAMC @F717@
+0 @I718@ INDI
+1 NAME Jacob /Waldinger/
+2 SURN Waldinger
+2 GIVN Jacob
+1 SEX M
+1 DEAT
+2 PLAC World War I
+1 FAMC @F702@
+0 @I723@ INDI
+1 NAME Eisig /Waldinger/
+2 SURN Waldinger
+2 GIVN Eisig
+1 SEX F
+1 DEAT
+2 PLAC Auschwitz-Birkenau
+3 MAP
+4 LATI 50.0262
+4 LONG 19.2041
+3 NOTE https://www.wikidata.org/wiki/Q7341
+1 FAMC @F702@
+1 FAMS @F723@
+0 @I72399999@ INDI
+1 NAME  /Pressia/
+2 SURN Pressia
+2 GIVN 
+1 SEX F
+1 DEAT
+2 PLAC Auschwitz-Birkenau
+3 MAP
+4 LATI 50.0262
+4 LONG 19.2041
+3 NOTE https://www.wikidata.org/wiki/Q7341
+1 FAMS @F723@
+0 @I722@ INDI
+1 NAME Sigmund /Waldinger/
+2 SURN Waldinger
+2 GIVN Sigmund
+1 SEX M
+1 DEAT
+2 PLAC Auschwitz-Birkenau
+3 MAP
+4 LATI 50.0262
+4 LONG 19.2041
+3 NOTE https://www.wikidata.org/wiki/Q7341
+1 FAMC @F702@
+1 FAMS @F722@
+0 @I72299999@ INDI
+1 NAME  /Minesia/
+2 SURN Minesia
+2 GIVN 
+1 SEX F
+1 DEAT
+2 PLAC Auschwitz-Birkenau
+3 MAP
+4 LATI 50.0262
+4 LONG 19.2041
+3 NOTE https://www.wikidata.org/wiki/Q7341
+1 FAMS @F722@
+0 @F10@ FAM
+1 HUSB @I10@
+1 CHIL @I102@
+1 CHIL @I200@
+1 CHIL @I500@
+1 CHIL @I300@
+1 CHIL @I400@
+1 CHIL @I600@
+1 CHIL @I700@
+0 @F102@ FAM
+1 HUSB @I102@
+1 WIFE @I10299999@
+1 CHIL @I114@
+1 CHIL @I109@
+1 CHIL @I183@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I112@
+1 CHIL @I113@
+1 CHIL @I199@
+0 @F114@ FAM
+1 HUSB @I114@
+1 WIFE @I11499999@
+1 CHIL @I122@
+1 CHIL @I121@
+1 CHIL @I123@
+0 @F122@ FAM
+1 HUSB @I122@
+1 WIFE @I12299999@
+1 CHIL @I129@
+1 CHIL @I130@
+0 @F129@ FAM
+1 HUSB @I129@
+1 WIFE @I12999999@
+1 CHIL @I136@
+1 CHIL @I137@
+0 @F136@ FAM
+1 WIFE @I136@
+1 HUSB @I13699999@
+1 CHIL @I145@
+1 CHIL @I146@
+0 @F145@ FAM
+1 WIFE @I145@
+0 @F146@ FAM
+1 WIFE @I146@
+0 @F137@ FAM
+1 WIFE @I137@
+1 HUSB @I13799999@
+1 CHIL @I1143@
+0 @F1143@ FAM
+1 HUSB @I1143@
+0 @F130@ FAM
+1 WIFE @I130@
+1 WIFE @I13099999@
+1 CHIL @I142@
+1 CHIL @I141@
+0 @F142@ FAM
+1 WIFE @I142@
+0 @F141@ FAM
+1 WIFE @I141@
+1 HUSB @I14199999@
+1 CHIL @I144@
+1 CHIL @I143@
+0 @F144@ FAM
+1 WIFE @I144@
+0 @F143@ FAM
+1 HUSB @I143@
+0 @F121@ FAM
+1 WIFE @I121@
+1 HUSB @I12199999@
+1 CHIL @I150@
+1 CHIL @I151@
+0 @F150@ FAM
+1 WIFE @I150@
+1 HUSB @I15099999@
+1 CHIL @I154@
+1 CHIL @I152@
+0 @F154@ FAM
+1 HUSB @I154@
+1 WIFE @I15499999@
+1 CHIL @I155@
+1 CHIL @I156@
+0 @F155@ FAM
+1 HUSB @I155@
+0 @F156@ FAM
+1 WIFE @I156@
+1 HUSB @I15699999@
+0 @F152@ FAM
+1 WIFE @I152@
+1 HUSB @I15299999@
+1 CHIL @I153@
+0 @F153@ FAM
+1 WIFE @I153@
+0 @F151@ FAM
+1 WIFE @I151@
+1 HUSB @I15199999@
+1 CHIL @I157@
+1 CHIL @I158@
+1 CHIL @I159@
+0 @F157@ FAM
+1 WIFE @I157@
+1 HUSB @I15799999@
+1 CHIL @I176@
+1 CHIL @I177@
+0 @F176@ FAM
+1 HUSB @I176@
+0 @F177@ FAM
+1 HUSB @I177@
+0 @F158@ FAM
+1 WIFE @I158@
+1 HUSB @I15899999@
+1 CHIL @I1145@
+1 CHIL @I1146@
+1 CHIL @I1147@
+1 CHIL @I1148@
+0 @F1145@ FAM
+1 WIFE @I1145@
+0 @F1146@ FAM
+1 HUSB @I1146@
+0 @F1147@ FAM
+1 HUSB @I1147@
+0 @F1148@ FAM
+1 HUSB @I1148@
+0 @F159@ FAM
+1 HUSB @I159@
+1 WIFE @I15999999@
+1 CHIL @I1149@
+1 CHIL @I1150@
+1 CHIL @I1151@
+0 @F1149@ FAM
+1 HUSB @I1149@
+0 @F1150@ FAM
+1 HUSB @I1150@
+0 @F1151@ FAM
+1 HUSB @I1151@
+0 @F123@ FAM
+1 HUSB @I123@
+1 WIFE @I12399999@
+1 CHIL @I131@
+1 CHIL @I132@
+0 @F131@ FAM
+1 HUSB @I131@
+1 WIFE @I13199999@
+1 CHIL @I138@
+1 CHIL @I139@
+0 @F138@ FAM
+1 HUSB @I138@
+1 WIFE @I13899999@
+1 CHIL @I175@
+1 CHIL @I1136@
+0 @F175@ FAM
+1 WIFE @I175@
+0 @F1136@ FAM
+1 WIFE @I1136@
+0 @F139@ FAM
+1 WIFE @I139@
+0 @F132@ FAM
+1 WIFE @I132@
+1 HUSB @I13299999@
+1 CHIL @I160@
+1 CHIL @I162@
+1 CHIL @I161@
+0 @F160@ FAM
+1 HUSB @I160@
+0 @F162@ FAM
+1 HUSB @I162@
+1 WIFE @I16299999@
+1 CHIL @I178@
+1 CHIL @I1152@
+1 CHIL @I1153@
+0 @F178@ FAM
+1 HUSB @I178@
+0 @F1152@ FAM
+1 HUSB @I1152@
+0 @F1153@ FAM
+1 WIFE @I1153@
+0 @F161@ FAM
+1 HUSB @I161@
+1 WIFE @I16199999@
+1 CHIL @I1154@
+0 @F1154@ FAM
+1 WIFE @I1154@
+0 @F109@ FAM
+1 HUSB @I109@
+1 WIFE @I10999999@
+1 CHIL @I115@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I118@
+0 @F115@ FAM
+1 WIFE @I115@
+1 HUSB @I11599999@
+1 CHIL @I179@
+1 CHIL @I1131@
+0 @F179@ FAM
+1 HUSB @I179@
+1 WIFE @I17999999@
+1 CHIL @I180@
+0 @F180@ FAM
+1 HUSB @I180@
+0 @F1131@ FAM
+1 WIFE @I1131@
+0 @F116@ FAM
+1 WIFE @I116@
+1 HUSB @I11699999@
+1 CHIL @I181@
+1 CHIL @I1132@
+0 @F181@ FAM
+1 HUSB @I181@
+1 WIFE @I18199999@
+1 CHIL @I1135@
+1 CHIL @I1137@
+1 CHIL @I1139@
+1 CHIL @I1144@
+0 @F1135@ FAM
+1 WIFE @I1135@
+1 HUSB @I113599999@
+0 @F1137@ FAM
+1 WIFE @I1137@
+1 HUSB @I113799999@
+0 @F1139@ FAM
+1 HUSB @I1139@
+0 @F1144@ FAM
+1 WIFE @I1144@
+0 @F1132@ FAM
+1 WIFE @I1132@
+1 HUSB @I113299999@
+1 CHIL @I1133@
+1 CHIL @I1134@
+0 @F1133@ FAM
+1 HUSB @I1133@
+0 @F1134@ FAM
+1 WIFE @I1134@
+0 @F117@ FAM
+1 HUSB @I117@
+1 WIFE @I11799999@
+1 CHIL @I124@
+0 @F124@ FAM
+1 WIFE @I124@
+1 HUSB @I12499999@
+1 CHIL @I163@
+0 @F163@ FAM
+1 WIFE @I163@
+1 HUSB @I16399999@
+0 @F118@ FAM
+1 HUSB @I118@
+1 WIFE @I11899999@
+1 CHIL @I125@
+1 CHIL @I126@
+0 @F125@ FAM
+1 HUSB @I125@
+1 WIFE @I12599999@
+1 CHIL @I133@
+1 CHIL @I164@
+0 @F133@ FAM
+1 WIFE @I133@
+0 @F164@ FAM
+1 HUSB @I164@
+0 @F126@ FAM
+1 HUSB @I126@
+1 WIFE @I12699999@
+1 CHIL @I134@
+1 CHIL @I135@
+0 @F134@ FAM
+1 WIFE @I134@
+0 @F135@ FAM
+1 HUSB @I135@
+0 @F183@ FAM
+1 HUSB @I183@
+1 HUSB @I18399999@
+1 CHIL @I184@
+0 @F184@ FAM
+1 HUSB @I184@
+1 WIFE @I18499999@
+1 CHIL @I185@
+1 CHIL @I186@
+0 @F185@ FAM
+1 HUSB @I185@
+1 WIFE @I18599999@
+1 CHIL @I1118@
+1 CHIL @I1119@
+1 CHIL @I1120@
+0 @F1118@ FAM
+1 WIFE @I1118@
+0 @F1119@ FAM
+1 HUSB @I1119@
+0 @F1120@ FAM
+1 WIFE @I1120@
+0 @F186@ FAM
+1 WIFE @I186@
+0 @F110@ FAM
+1 WIFE @I110@
+1 HUSB @I11099999@
+1 CHIL @I187@
+1 CHIL @I188@
+1 CHIL @I189@
+1 CHIL @I190@
+0 @F187@ FAM
+1 WIFE @I187@
+1 HUSB @I18799999@
+1 CHIL @I1121@
+1 CHIL @I1122@
+1 CHIL @I1123@
+0 @F1121@ FAM
+1 WIFE @I1121@
+0 @F1122@ FAM
+1 HUSB @I1122@
+0 @F1123@ FAM
+1 WIFE @I1123@
+0 @F188@ FAM
+1 WIFE @I188@
+1 HUSB @I18899999@
+1 CHIL @I1124@
+1 CHIL @I1127@
+0 @F1124@ FAM
+1 HUSB @I1124@
+1 CHIL @I1125@
+1 CHIL @I1126@
+0 @F1125@ FAM
+1 HUSB @I1125@
+0 @F1126@ FAM
+1 WIFE @I1126@
+0 @F1127@ FAM
+1 HUSB @I1127@
+1 CHIL @I1128@
+1 CHIL @I1129@
+1 CHIL @I1130@
+0 @F1128@ FAM
+1 HUSB @I1128@
+0 @F1129@ FAM
+1 WIFE @I1129@
+0 @F1130@ FAM
+1 HUSB @I1130@
+0 @F189@ FAM
+1 WIFE @I189@
+1 HUSB @I18999999@
+0 @F190@ FAM
+1 HUSB @I190@
+1 WIFE @I19099999@
+1 CHIL @I1106@
+1 CHIL @I1114@
+0 @F1106@ FAM
+1 HUSB @I1106@
+0 @F1114@ FAM
+1 HUSB @I1114@
+0 @F111@ FAM
+1 WIFE @I111@
+1 HUSB @I11199999@
+1 CHIL @I193@
+1 CHIL @I198@
+1 CHIL @I1111@
+1 CHIL @I1100@
+1 CHIL @I1101@
+1 CHIL @I1140@
+0 @F193@ FAM
+1 WIFE @I193@
+1 WIFE @I19399999@
+1 CHIL @I1108@
+0 @F1108@ FAM
+1 HUSB @I1108@
+1 WIFE @I110899999@
+1 CHIL @I1109@
+1 CHIL @I1110@
+0 @F1109@ FAM
+1 HUSB @I1109@
+0 @F1110@ FAM
+1 HUSB @I1110@
+0 @F198@ FAM
+1 HUSB @I198@
+1 HUSB @I19899999@
+1 CHIL @I1104@
+0 @F1104@ FAM
+1 HUSB @I1104@
+0 @F1111@ FAM
+1 HUSB @I1111@
+1 WIFE @I111199999@
+1 CHIL @I1105@
+1 CHIL @I1107@
+0 @F1105@ FAM
+1 WIFE @I1105@
+0 @F1107@ FAM
+1 WIFE @I1107@
+0 @F1100@ FAM
+1 WIFE @I1100@
+1 HUSB @I110099999@
+1 CHIL @I1102@
+1 CHIL @I1103@
+0 @F1102@ FAM
+1 WIFE @I1102@
+1 HUSB @I110299999@
+0 @F1103@ FAM
+1 WIFE @I1103@
+1 HUSB @I110399999@
+0 @F1101@ FAM
+1 WIFE @I1101@
+1 HUSB @I110199999@
+1 CHIL @I1160@
+1 CHIL @I1161@
+1 CHIL @I1172@
+0 @F1160@ FAM
+1 WIFE @I1160@
+1 HUSB @I116099999@
+1 CHIL @I1162@
+1 CHIL @I1163@
+0 @F1162@ FAM
+1 WIFE @I1162@
+0 @F1163@ FAM
+1 WIFE @I1163@
+1 HUSB @I116399999@
+1 CHIL @I1164@
+0 @F1164@ FAM
+1 HUSB @I1164@
+0 @F1161@ FAM
+1 WIFE @I1161@
+1 HUSB @I116199999@
+1 CHIL @I1165@
+1 CHIL @I1167@
+1 CHIL @I1169@
+0 @F1165@ FAM
+1 WIFE @I1165@
+1 HUSB @I116599999@
+1 CHIL @I1166B@
+0 @F1166B@ FAM
+1 HUSB @I1166B@
+0 @F1167@ FAM
+1 WIFE @I1167@
+1 HUSB @I116799999@
+1 CHIL @I1168@
+0 @F1168@ FAM
+1 WIFE @I1168@
+0 @F1169@ FAM
+1 WIFE @I1169@
+1 HUSB @I116999999@
+1 CHIL @I1170@
+1 CHIL @I1171@
+0 @F1170@ FAM
+1 WIFE @I1170@
+0 @F1171@ FAM
+1 WIFE @I1171@
+0 @F1172@ FAM
+1 HUSB @I1172@
+1 WIFE @I117299999@
+1 CHIL @I1173@
+1 CHIL @I1174@
+0 @F1173@ FAM
+1 WIFE @I1173@
+0 @F1174@ FAM
+1 HUSB @I1174@
+0 @F1140@ FAM
+1 WIFE @I1140@
+1 HUSB @I114099999@
+1 CHIL @I1141@
+1 CHIL @I1142@
+0 @F1141@ FAM
+1 HUSB @I1141@
+0 @F1142@ FAM
+1 HUSB @I1142@
+0 @F112@ FAM
+1 HUSB @I112@
+1 WIFE @I11299999@
+1 CHIL @I119@
+0 @F119@ FAM
+1 WIFE @I119@
+1 HUSB @I11999999@
+1 CHIL @I170@
+1 CHIL @I171@
+0 @F170@ FAM
+1 WIFE @I170@
+1 HUSB @I17099999@
+0 @F171@ FAM
+1 HUSB @I171@
+1 WIFE @I17199999@
+0 @F113@ FAM
+1 HUSB @I113@
+1 WIFE @I11399999@
+1 CHIL @I166@
+0 @F166@ FAM
+1 HUSB @I166@
+1 WIFE @I16699999@
+1 CHIL @I194@
+1 CHIL @I195@
+0 @F194@ FAM
+1 WIFE @I194@
+1 WIFE @I19499999@
+1 CHIL @I196@
+1 CHIL @I197@
+0 @F196@ FAM
+1 HUSB @I196@
+0 @F197@ FAM
+1 HUSB @I197@
+0 @F195@ FAM
+1 WIFE @I195@
+0 @F199@ FAM
+1 WIFE @I199@
+0 @F200@ FAM
+1 HUSB @I200@
+1 WIFE @I20099999@
+1 CHIL @I201@
+1 CHIL @I232@
+0 @F201@ FAM
+1 HUSB @I201@
+1 WIFE @I20199999@
+1 CHIL @I205@
+1 CHIL @I206@
+1 CHIL @I207@
+1 CHIL @I208@
+0 @F205@ FAM
+1 HUSB @I205@
+1 WIFE @I20599999@
+1 CHIL @I217@
+1 CHIL @I218@
+0 @F217@ FAM
+1 HUSB @I217@
+1 WIFE @I21799999@
+1 CHIL @I224@
+1 CHIL @I225@
+0 @F224@ FAM
+1 HUSB @I224@
+1 WIFE @I22499999@
+1 CHIL @I226@
+1 CHIL @I227@
+1 CHIL @I228@
+0 @F226@ FAM
+1 HUSB @I226@
+0 @F227@ FAM
+1 WIFE @I227@
+0 @F228@ FAM
+1 HUSB @I228@
+0 @F225@ FAM
+1 WIFE @I225@
+1 WIFE @I22599999@
+1 CHIL @I233@
+0 @F233@ FAM
+1 HUSB @I233@
+0 @F218@ FAM
+1 WIFE @I218@
+0 @F206@ FAM
+1 HUSB @I206@
+1 WIFE @I20699999@
+1 CHIL @I219@
+0 @F219@ FAM
+1 WIFE @I219@
+1 HUSB @I21999999@
+1 CHIL @I244@
+1 CHIL @I245@
+1 CHIL @I246@
+0 @F244@ FAM
+1 WIFE @I244@
+1 HUSB @I24499999@
+1 CHIL @I247@
+1 CHIL @I248@
+1 CHIL @I249@
+0 @F247@ FAM
+1 HUSB @I247@
+0 @F248@ FAM
+1 HUSB @I248@
+0 @F249@ FAM
+1 WIFE @I249@
+0 @F245@ FAM
+1 HUSB @I245@
+1 WIFE @I24599999@
+1 CHIL @I250@
+0 @F250@ FAM
+1 HUSB @I250@
+0 @F246@ FAM
+1 WIFE @I246@
+0 @F207@ FAM
+1 HUSB @I207@
+1 WIFE @I20799999@
+1 CHIL @I220@
+0 @F220@ FAM
+1 HUSB @I220@
+1 WIFE @I22099999@
+1 CHIL @I229@
+1 CHIL @I230@
+0 @F229@ FAM
+1 HUSB @I229@
+0 @F230@ FAM
+1 WIFE @I230@
+0 @F208@ FAM
+1 WIFE @I208@
+1 HUSB @I20899999@
+1 CHIL @I231@
+0 @F231@ FAM
+1 WIFE @I231@
+0 @F232@ FAM
+1 WIFE @I232@
+0 @F500@ FAM
+1 HUSB @I500@
+1 CHIL @I501@
+0 @F501@ FAM
+1 HUSB @I501@
+1 WIFE @I50199999@
+1 CHIL @I514@
+1 CHIL @I502@
+1 CHIL @I503@
+1 CHIL @I504@
+1 CHIL @I505@
+0 @F514@ FAM
+1 HUSB @I514@
+1 WIFE @I51499999@
+1 CHIL @I506@
+1 CHIL @I507@
+0 @F506@ FAM
+1 HUSB @I506@
+1 WIFE @I50699999@
+1 CHIL @I525@
+1 CHIL @I515@
+0 @F525@ FAM
+1 HUSB @I525@
+0 @F515@ FAM
+1 WIFE @I515@
+0 @F507@ FAM
+1 WIFE @I507@
+1 HUSB @I50799999@
+1 CHIL @I516@
+1 CHIL @I517@
+0 @F516@ FAM
+1 HUSB @I516@
+0 @F517@ FAM
+1 HUSB @I517@
+0 @F502@ FAM
+1 WIFE @I502@
+1 HUSB @I50299999@
+1 CHIL @I518@
+1 CHIL @I519@
+1 CHIL @I521@
+0 @F518@ FAM
+1 HUSB @I518@
+0 @F519@ FAM
+1 HUSB @I519@
+0 @F521@ FAM
+1 WIFE @I521@
+0 @F503@ FAM
+1 HUSB @I503@
+1 WIFE @I50399999@
+1 CHIL @I508@
+1 CHIL @I511@
+0 @F508@ FAM
+1 HUSB @I508@
+1 WIFE @I50899999@
+1 CHIL @I509@
+1 CHIL @I510@
+0 @F509@ FAM
+1 HUSB @I509@
+0 @F510@ FAM
+1 HUSB @I510@
+0 @F511@ FAM
+1 WIFE @I511@
+1 HUSB @I51199999@
+1 CHIL @I512@
+1 CHIL @I513@
+0 @F512@ FAM
+1 HUSB @I512@
+0 @F513@ FAM
+1 WIFE @I513@
+0 @F504@ FAM
+1 WIFE @I504@
+1 HUSB @I50499999@
+1 CHIL @I522@
+1 CHIL @I523@
+0 @F522@ FAM
+1 WIFE @I522@
+0 @F523@ FAM
+1 HUSB @I523@
+0 @F505@ FAM
+1 WIFE @I505@
+1 HUSB @I50599999@
+1 CHIL @I524@
+0 @F524@ FAM
+1 WIFE @I524@
+0 @F300@ FAM
+1 HUSB @I300@
+1 CHIL @I301@
+1 CHIL @I302@
+1 CHIL @I350@
+1 CHIL @I351@
+1 CHIL @I352@
+0 @F301@ FAM
+1 HUSB @I301@
+1 WIFE @I30199999@
+1 CHIL @I304@
+1 CHIL @I305@
+1 CHIL @I306@
+0 @F304@ FAM
+1 HUSB @I304@
+1 WIFE @I30499999@
+1 CHIL @I310@
+1 CHIL @I334@
+1 CHIL @I335@
+0 @F310@ FAM
+1 HUSB @I310@
+1 WIFE @I31099999@
+1 CHIL @I318@
+1 CHIL @I336@
+0 @F318@ FAM
+1 HUSB @I318@
+0 @F336@ FAM
+1 HUSB @I336@
+0 @F334@ FAM
+1 WIFE @I334@
+1 HUSB @I33499999@
+1 CHIL @I337@
+0 @F337@ FAM
+1 WIFE @I337@
+1 CHIL @I344@
+0 @F344@ FAM
+1 WIFE @I344@
+0 @F335@ FAM
+1 WIFE @I335@
+1 HUSB @I33599999@
+0 @F305@ FAM
+1 HUSB @I305@
+1 WIFE @I30599999@
+1 CHIL @I338@
+1 CHIL @I341@
+0 @F338@ FAM
+1 HUSB @I338@
+1 WIFE @I33899999@
+1 CHIL @I339@
+1 CHIL @I340@
+0 @F339@ FAM
+1 HUSB @I339@
+0 @F340@ FAM
+1 WIFE @I340@
+0 @F341@ FAM
+1 WIFE @I341@
+1 HUSB @I34199999@
+1 CHIL @I342@
+1 CHIL @I343@
+0 @F342@ FAM
+1 HUSB @I342@
+0 @F343@ FAM
+1 HUSB @I343@
+0 @F306@ FAM
+1 HUSB @I306@
+1 WIFE @I30699999@
+1 CHIL @I345@
+0 @F345@ FAM
+1 WIFE @I345@
+1 HUSB @I34599999@
+1 CHIL @I346@
+1 CHIL @I347@
+1 CHIL @I353@
+0 @F346@ FAM
+1 HUSB @I346@
+0 @F347@ FAM
+1 WIFE @I347@
+0 @F353@ FAM
+1 HUSB @I353@
+0 @F302@ FAM
+1 HUSB @I302@
+1 WIFE @I30299999@
+1 CHIL @I307@
+1 CHIL @I308@
+1 CHIL @I348@
+1 CHIL @I356@
+0 @F307@ FAM
+1 HUSB @I307@
+1 WIFE @I30799999@
+1 CHIL @I313@
+1 CHIL @I314@
+0 @F313@ FAM
+1 HUSB @I313@
+1 WIFE @I31399999@
+1 CHIL @I319@
+1 CHIL @I320@
+0 @F319@ FAM
+1 HUSB @I319@
+1 WIFE @I31999999@
+1 CHIL @I365@
+0 @F365@ FAM
+1 WIFE @I365@
+0 @F320@ FAM
+1 HUSB @I320@
+1 WIFE @I32099999@
+0 @F314@ FAM
+1 WIFE @I314@
+1 HUSB @I31499999@
+1 CHIL @I361@
+1 CHIL @I362@
+0 @F361@ FAM
+1 WIFE @I361@
+1 CHIL @I363@
+0 @F363@ FAM
+1 HUSB @I363@
+0 @F362@ FAM
+1 HUSB @I362@
+1 CHIL @I364@
+0 @F364@ FAM
+1 WIFE @I364@
+0 @F308@ FAM
+1 HUSB @I308@
+0 @F348@ FAM
+1 WIFE @I348@
+1 HUSB @I34899999@
+1 CHIL @I349@
+1 CHIL @I355@
+0 @F349@ FAM
+1 HUSB @I349@
+0 @F355@ FAM
+1 HUSB @I355@
+0 @F356@ FAM
+1 HUSB @I356@
+1 WIFE @I35699999@
+0 @F350@ FAM
+1 HUSB @I350@
+0 @F351@ FAM
+1 WIFE @I351@
+0 @F352@ FAM
+1 WIFE @I352@
+0 @F400@ FAM
+1 HUSB @I400@
+1 CHIL @I401@
+1 CHIL @I4026@
+1 CHIL @I4020@
+0 @F401@ FAM
+1 HUSB @I401@
+1 WIFE @I40199999@
+1 CHIL @I403@
+1 CHIL @I404@
+1 CHIL @I405@
+1 CHIL @I406@
+1 CHIL @I408@
+0 @F403@ FAM
+1 HUSB @I403@
+1 WIFE @I40399999@
+1 CHIL @I409@
+1 CHIL @I410@
+0 @F409@ FAM
+1 HUSB @I409@
+1 WIFE @I40999999@
+1 CHIL @I422@
+1 CHIL @I424@
+1 CHIL @I423@
+0 @F422@ FAM
+1 HUSB @I422@
+0 @F424@ FAM
+1 WIFE @I424@
+1 HUSB @I42499999@
+1 CHIL @I435@
+0 @F435@ FAM
+1 WIFE @I435@
+0 @F423@ FAM
+1 HUSB @I423@
+0 @F410@ FAM
+1 WIFE @I410@
+1 HUSB @I41099999@
+1 CHIL @I426@
+1 CHIL @I429@
+1 CHIL @I430@
+0 @F426@ FAM
+1 HUSB @I426@
+1 WIFE @I42699999@
+1 CHIL @I427@
+1 CHIL @I428@
+0 @F427@ FAM
+1 WIFE @I427@
+0 @F428@ FAM
+1 HUSB @I428@
+0 @F429@ FAM
+1 WIFE @I429@
+1 HUSB @I42999999@
+1 CHIL @I431@
+0 @F431@ FAM
+1 HUSB @I431@
+0 @F430@ FAM
+1 HUSB @I430@
+0 @F404@ FAM
+1 HUSB @I404@
+1 CHIL @I411@
+1 CHIL @I420@
+1 CHIL @I421@
+0 @F411@ FAM
+1 WIFE @I411@
+1 HUSB @I41199999@
+1 CHIL @I465@
+1 CHIL @I466@
+1 CHIL @I471@
+1 CHIL @I474@
+1 CHIL @I475@
+0 @F465@ FAM
+1 HUSB @I465@
+0 @F466@ FAM
+1 WIFE @I466@
+1 HUSB @I46699999@
+1 CHIL @I467@
+1 CHIL @I468@
+1 CHIL @I469@
+1 CHIL @I470@
+0 @F467@ FAM
+1 WIFE @I467@
+0 @F468@ FAM
+1 WIFE @I468@
+0 @F469@ FAM
+1 HUSB @I469@
+0 @F470@ FAM
+1 HUSB @I470@
+0 @F471@ FAM
+1 WIFE @I471@
+1 WIFE @I47199999@
+1 CHIL @I472@
+1 CHIL @I473@
+1 CHIL @I487@
+0 @F472@ FAM
+1 WIFE @I472@
+0 @F473@ FAM
+1 WIFE @I473@
+0 @F487@ FAM
+1 WIFE @I487@
+0 @F474@ FAM
+1 WIFE @I474@
+1 HUSB @I47499999@
+0 @F475@ FAM
+1 HUSB @I475@
+0 @F420@ FAM
+1 WIFE @I420@
+1 HUSB @I42099999@
+1 CHIL @I418@
+1 CHIL @I485@
+1 CHIL @I425@
+1 CHIL @I463@
+0 @F418@ FAM
+1 HUSB @I418@
+1 WIFE @I41899999@
+1 CHIL @I458@
+1 CHIL @I459@
+0 @F458@ FAM
+1 HUSB @I458@
+0 @F459@ FAM
+1 WIFE @I459@
+0 @F485@ FAM
+1 WIFE @I485@
+1 HUSB @I48599999@
+1 CHIL @I460@
+1 CHIL @I461@
+0 @F460@ FAM
+1 HUSB @I460@
+0 @F461@ FAM
+1 WIFE @I461@
+0 @F425@ FAM
+1 HUSB @I425@
+1 WIFE @I42599999@
+1 CHIL @I462@
+0 @F462@ FAM
+1 HUSB @I462@
+0 @F463@ FAM
+1 HUSB @I463@
+1 WIFE @I46399999@
+1 CHIL @I464@
+1 CHIL @I486@
+0 @F464@ FAM
+1 HUSB @I464@
+0 @F486@ FAM
+1 WIFE @I486@
+0 @F421@ FAM
+1 WIFE @I421@
+1 HUSB @I42199999@
+1 CHIL @I476@
+1 CHIL @I479@
+1 CHIL @I481@
+1 CHIL @I484@
+0 @F476@ FAM
+1 WIFE @I476@
+1 HUSB @I47699999@
+1 CHIL @I477@
+1 CHIL @I478@
+0 @F477@ FAM
+1 HUSB @I477@
+0 @F478@ FAM
+1 WIFE @I478@
+0 @F479@ FAM
+1 HUSB @I479@
+1 WIFE @I47999999@
+1 CHIL @I480@
+0 @F480@ FAM
+1 HUSB @I480@
+0 @F481@ FAM
+1 HUSB @I481@
+1 WIFE @I48199999@
+1 CHIL @I482@
+1 CHIL @I483@
+0 @F482@ FAM
+1 WIFE @I482@
+0 @F483@ FAM
+1 WIFE @I483@
+0 @F484@ FAM
+1 WIFE @I484@
+1 HUSB @I48499999@
+0 @F405@ FAM
+1 HUSB @I405@
+1 WIFE @I40599999@
+1 CHIL @I414@
+1 CHIL @I415@
+0 @F414@ FAM
+1 HUSB @I414@
+1 WIFE @I41499999@
+1 CHIL @I433@
+1 CHIL @I434@
+0 @F433@ FAM
+1 HUSB @I433@
+0 @F434@ FAM
+1 HUSB @I434@
+0 @F415@ FAM
+1 HUSB @I415@
+0 @F406@ FAM
+1 WIFE @I406@
+1 HUSB @I40699999@
+1 CHIL @I488@
+1 CHIL @I491@
+1 CHIL @I492@
+1 CHIL @I494@
+1 CHIL @I497@
+0 @F488@ FAM
+1 WIFE @I488@
+1 HUSB @I48899999@
+1 CHIL @I489@
+1 CHIL @I490@
+0 @F489@ FAM
+1 HUSB @I489@
+0 @F490@ FAM
+1 HUSB @I490@
+0 @F491@ FAM
+1 HUSB @I491@
+0 @F492@ FAM
+1 HUSB @I492@
+1 WIFE @I49299999@
+1 CHIL @I493@
+1 CHIL @I498@
+0 @F493@ FAM
+1 WIFE @I493@
+0 @F498@ FAM
+1 WIFE @I498@
+0 @F494@ FAM
+1 WIFE @I494@
+1 CHIL @I495@
+0 @F495@ FAM
+1 HUSB @I495@
+0 @F497@ FAM
+1 WIFE @I497@
+0 @F408@ FAM
+1 HUSB @I408@
+1 WIFE @I40899999@
+1 CHIL @I416@
+1 CHIL @I417@
+0 @F416@ FAM
+1 HUSB @I416@
+1 WIFE @I41699999@
+1 CHIL @I456@
+1 CHIL @I457@
+0 @F456@ FAM
+1 HUSB @I456@
+0 @F457@ FAM
+1 WIFE @I457@
+0 @F417@ FAM
+1 WIFE @I417@
+1 HUSB @I41799999@
+1 CHIL @I496@
+0 @F496@ FAM
+1 HUSB @I496@
+0 @F4026@ FAM
+1 HUSB @I4026@
+1 WIFE @I402699999@
+1 CHIL @I4027@
+1 CHIL @I575@
+1 CHIL @I4029@
+0 @F4027@ FAM
+1 HUSB @I4027@
+1 WIFE @I402799999@
+1 CHIL @I4030@
+0 @F4030@ FAM
+1 HUSB @I4030@
+1 WIFE @I403099999@
+1 CHIL @I4031@
+1 CHIL @I4037@
+1 CHIL @I4041@
+0 @F4031@ FAM
+1 HUSB @I4031@
+1 WIFE @I403199999@
+1 CHIL @I4032@
+1 CHIL @I4033@
+1 CHIL @I4034@
+1 CHIL @I4035@
+1 CHIL @I4036@
+0 @F4032@ FAM
+1 HUSB @I4032@
+0 @F4033@ FAM
+1 WIFE @I4033@
+0 @F4034@ FAM
+1 WIFE @I4034@
+0 @F4035@ FAM
+1 HUSB @I4035@
+0 @F4036@ FAM
+1 HUSB @I4036@
+0 @F4037@ FAM
+1 WIFE @I4037@
+1 HUSB @I403799999@
+1 CHIL @I4038@
+1 CHIL @I4039@
+1 CHIL @I4040@
+0 @F4038@ FAM
+1 HUSB @I4038@
+0 @F4039@ FAM
+1 HUSB @I4039@
+0 @F4040@ FAM
+1 WIFE @I4040@
+0 @F4041@ FAM
+1 HUSB @I4041@
+1 WIFE @I404199999@
+1 CHIL @I4042@
+1 CHIL @I4014@
+1 CHIL @I4015@
+0 @F4042@ FAM
+1 HUSB @I4042@
+0 @F4014@ FAM
+1 WIFE @I4014@
+0 @F4015@ FAM
+1 WIFE @I4015@
+0 @F575@ FAM
+1 HUSB @I575@
+0 @F4029@ FAM
+1 HUSB @I4029@
+1 WIFE @I402999999@
+1 CHIL @I4043@
+1 CHIL @I4050@
+0 @F4043@ FAM
+1 HUSB @I4043@
+1 WIFE @I404399999@
+1 CHIL @I4044@
+1 CHIL @I4045@
+0 @F4044@ FAM
+1 HUSB @I4044@
+1 WIFE @I404499999@
+1 CHIL @I4046@
+1 CHIL @I4047@
+0 @F4046@ FAM
+1 HUSB @I4046@
+0 @F4047@ FAM
+1 HUSB @I4047@
+0 @F4045@ FAM
+1 WIFE @I4045@
+1 HUSB @I404599999@
+1 CHIL @I4048@
+1 CHIL @I4049@
+0 @F4048@ FAM
+1 HUSB @I4048@
+0 @F4049@ FAM
+1 HUSB @I4049@
+0 @F4050@ FAM
+1 HUSB @I4050@
+1 WIFE @I405099999@
+1 CHIL @I4051@
+1 CHIL @I4054@
+1 CHIL @I4057@
+0 @F4051@ FAM
+1 HUSB @I4051@
+1 WIFE @I405199999@
+1 CHIL @I4052@
+1 CHIL @I4053@
+0 @F4052@ FAM
+1 WIFE @I4052@
+0 @F4053@ FAM
+1 WIFE @I4053@
+0 @F4054@ FAM
+1 HUSB @I4054@
+1 WIFE @I405499999@
+1 CHIL @I4055@
+1 CHIL @I4056@
+0 @F4055@ FAM
+1 HUSB @I4055@
+0 @F4056@ FAM
+1 WIFE @I4056@
+0 @F4057@ FAM
+1 WIFE @I4057@
+0 @F4020@ FAM
+1 WIFE @I4020@
+1 HUSB @I402099999@
+0 @F600@ FAM
+1 HUSB @I600@
+1 CHIL @I610B@
+0 @F610B@ FAM
+1 HUSB @I610B@
+1 WIFE @I6199999@
+1 CHIL @I611@
+1 CHIL @I612@
+1 CHIL @I613@
+1 CHIL @I614@
+1 CHIL @I615@
+1 CHIL @I616@
+0 @F611@ FAM
+1 HUSB @I611@
+1 CHIL @I617@
+1 CHIL @I618@
+1 CHIL @I619@
+1 CHIL @I620@
+1 CHIL @I621@
+1 CHIL @I622@
+0 @F617@ FAM
+1 HUSB @I617@
+1 WIFE @I61799999@
+1 CHIL @I624@
+1 CHIL @I625@
+0 @F624@ FAM
+1 WIFE @I624@
+0 @F625@ FAM
+1 WIFE @I625@
+0 @F618@ FAM
+1 HUSB @I618@
+0 @F619@ FAM
+1 WIFE @I619@
+0 @F620@ FAM
+1 WIFE @I620@
+0 @F621@ FAM
+1 WIFE @I621@
+0 @F622@ FAM
+1 HUSB @I622@
+0 @F612@ FAM
+1 HUSB @I612@
+1 CHIL @I623@
+0 @F623@ FAM
+1 HUSB @I623@
+0 @F613@ FAM
+1 HUSB @I613@
+0 @F614@ FAM
+1 WIFE @I614@
+0 @F615@ FAM
+1 HUSB @I615@
+0 @F616@ FAM
+1 HUSB @I616@
+0 @F700@ FAM
+1 HUSB @I700@
+1 CHIL @I701@
+0 @F701@ FAM
+1 HUSB @I701@
+1 CHIL @I702@
+0 @F702@ FAM
+1 HUSB @I702@
+1 WIFE @I70299999@
+1 CHIL @I703@
+1 CHIL @I711@
+1 CHIL @I717@
+1 CHIL @I718@
+1 CHIL @I723@
+1 CHIL @I722@
+0 @F703@ FAM
+1 HUSB @I703@
+1 WIFE @I70399999@
+1 CHIL @I704@
+1 CHIL @I705@
+0 @F704@ FAM
+1 WIFE @I704@
+1 HUSB @I70499999@
+1 CHIL @I706@
+1 CHIL @I707@
+0 @F706@ FAM
+1 WIFE @I706@
+0 @F707@ FAM
+1 HUSB @I707@
+0 @F705@ FAM
+1 HUSB @I705@
+1 WIFE @I70599999@
+1 CHIL @I708@
+1 CHIL @I709@
+1 CHIL @I710@
+0 @F708@ FAM
+1 WIFE @I708@
+0 @F709@ FAM
+1 WIFE @I709@
+0 @F710@ FAM
+1 HUSB @I710@
+0 @F711@ FAM
+1 WIFE @I711@
+1 HUSB @I71199999@
+1 CHIL @I712@
+1 CHIL @I713@
+0 @F712@ FAM
+1 WIFE @I712@
+1 HUSB @I71299999@
+0 @F713@ FAM
+1 HUSB @I713@
+1 WIFE @I71399999@
+1 CHIL @I714@
+1 CHIL @I715@
+1 CHIL @I716@
+0 @F714@ FAM
+1 HUSB @I714@
+0 @F715@ FAM
+1 HUSB @I715@
+1 WIFE @I71599999@
+0 @F716@ FAM
+1 WIFE @I716@
+1 HUSB @I71699999@
+1 CHIL @I725@
+0 @F725@ FAM
+1 HUSB @I725@
+0 @F717@ FAM
+1 WIFE @I717@
+1 HUSB @I71799999@
+1 CHIL @I719@
+1 CHIL @I720@
+1 CHIL @I721@
+0 @F719@ FAM
+1 HUSB @I719@
+0 @F720@ FAM
+1 HUSB @I720@
+0 @F721@ FAM
+1 WIFE @I721@
+0 @F718@ FAM
+1 HUSB @I718@
+0 @F723@ FAM
+1 WIFE @I723@
+1 WIFE @I72399999@
+0 @F722@ FAM
+1 HUSB @I722@
+1 WIFE @I72299999@
+0 TRLR
